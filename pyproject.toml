@@ -13,6 +13,8 @@ urllib3 = "^1.26.12"
 xds-protos = "^0.0.11"
 google-cloud = "0.34.0"
 google-cloud-storage = "2.9.0"
+pandas = "2.0.2"
+pandas-gbq = "0.19.2"
 
 [tool.poetry.dev-dependencies]
 debugpy = "^1.6.2"

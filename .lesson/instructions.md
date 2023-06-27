@@ -34,28 +34,45 @@ From now on we call our sales team our "stakeholder". The goal is to support our
 This time there is no predefined structure. No empty functions and no clear instructions how to code. You can build your ETL like in the previous chapter or use your own ideas.
 
 
-## Introduction to GCP (Cloud Platform)
-Lets first learn about cloud platforms, especially GCP.
+# Import Data
 
-_**TASK 1:**_
-- Open the lesson "1_GCP/1_gcp_lesson.md"
+## GCP (Cloud Platform)
+Our first data source is GCP, a cloud platform. First lets figure out what GCP and Cloud Services are:
+
+_**LESSON 1:**_
+- Go through the lesson 1
 - Make sure to use "Open preview", so you see the lesson in the right format.
   
 <br />![image](assets/open_preview2.png)
 <br />
-- Click on the file "1_GCP/1_gcp_lesson.md", so you see this lesson in a "Markdown" tab. You should now see this:
+- Make sure to click on the file "1_import_data/1_gcp_cloud_platform.md", so you see this lesson in the "Markdown" tab on the right. You should now see this:
 ![image](assets/gcp_lesson_mardown.png)
 
 
-_**TASK 1**_
-- Go through the lesson "1_GCP/1_gcp_lesson.md"
+## GCP Storage
+
+Now we want to interact with a GCP cloud service called: GCP Storage in order to import data.
+
+_**LESSON 2:**_
+- Go through the lesson 2
+
+
+## GCP Big Query
+
+Now we want to interact with a GCP cloud service called: Big Query in order to import even more data.
+
+
+_**LESSON 3:**_
+- Go through the lesson 3
 
 
 
+## Store Data in SQL
 
+Now we want to store our data in our SQL database.
 
-
-
+_**LESSON 4:**_
+- Go through the lesson 4
 
 
 

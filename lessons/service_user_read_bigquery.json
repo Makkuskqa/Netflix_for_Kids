@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "python-rocket-1",
+  "private_key_id": "0769f9c4d6da3025d57f5c8ff713d2cf1d539aba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC7oEcgqxaVC0YZ\nyEZXluCX/IPxfEfYQHEpws6sabZ82zRni0535SF5LJ66Edgsea1+/UU3DAgDzQfn\nea6HMzNo9IZJg4MuDF/bE01Onwgye3KoVIoxV1e5YEs30XOP6AMJwdT8g2YvPND9\nsLeJTIerIlDJZwUZOLX85aKEcycjAk2mjT8VFM7eR6SCQ1fgsagUpjz8VTP75JRK\nYyaEXtXv7lR2PgUcExfbppX4dn5+cRPsldJ8TwKTQnWKXV/ckGCKEQ6w2mEkKs2R\nOMe19prCOFaPl+LwEK+Cn9zdG+4b1mIQqaBG0heZ6+NKy5UjGXg0YJ1kuzIEbfVn\nLWqjwznNAgMBAAECggEABKvK7DJeNk6Iy6kGWUq5Y4dG7frlsKmlYkBblAQbZd8w\n3jgOt3eV86tA9gnDhj3u7BJYSAnNuZx/4HXResOzTrRcaIBJ7S+j2PN8JqODw8/6\nIjHdRo5cXHzcJTMFdmp0sug8tMmnqwWPqr/cyIywyaRUew3McnI3PlPQOI3DsRXO\nvlXe943x8zwMUlNsr9q1wFHU8Ga7Q3vrR5s0lTrfxKzUuKnWEsEsUixIvTTsyyWo\nh9CQu0ppJxiRPA/dZwG7o4zy8WpqG/uNBWOUuNJD3zViAdtJOAdo1+LrL+wwmc2U\nIluFGXa8548B4/loHDGKUw9kQcCz8heFmXqnLpguuQKBgQDpirB8FLWe5GWPq9GM\nFCmWrRPletXLN/hKJOWh+dHgd9rdqtWZlUu0flvmDHI87u3l+K0XYLvRwXAl0z+U\n3/iRVhVLNimwa50cZ5LCa4chtTjP86LgTQxgD4/Izs90oTslj6o1c3EwOAycyd9i\nZxJNJwNCc/cRu66yNJfdYTde1QKBgQDNqz2QAbTKTRFrApmlu39h7iey54XrxYCq\nTDizAfXcmvVQ0zETHE7L5h7iyTlNYeMtGBK/Vyz6N2UHbZ4ygqiF2IIm30ziFT6t\nhi3UK1uOGyUR93oXXSlwGqwepUIuPsJQov7L4r3Fj/1Adzn7ipEinbHFgdQ+LiGL\njkfH+zCbGQKBgB7d+9GKky67FUlV9k5DY/PMUHLmN1eywBhcpBUyhbDbZowhxjWU\na/shMFhJkNfI5Jyer5IFcQ2aOY5mS2ML7ziWXh4gvIXa01srvVQBDk1APJAPrZlj\n1ZzksaZi3zyVCtI+GMsTxQQQhGo8rE+/O8YCwAWKej9XxRE8rk3OSZk5AoGAe3EH\nDzLm9vEQvkCeRanmx7lwXGG3sI4nLo93DIHltlXPXYaUktrPtHPXH9kUqoxRFNS5\nE9zX4wpyeeXiKIDhcwxC+d/Wvm9v4iiBwzGOzxkdw83cmr9QyrdHjVE1CpqieFGM\nSoU5z6UfpJyq0X4WpEcv1tKYuAVqHt/z12S9hKkCgYBuRyvjVD3fMvdKb/ysNzFX\nueHO5TSm0gTaRqjHJd0QClHt4prUiFZjOX9sFp/8Ek4etphsvf3wgM/akjBW59gl\nj/VH9p3C1JQ4I6dOSxIl7RF0BLfRk2hOwUxg+bSrBHT5oER4WVUunLYQxTd9g9Pt\nFpDrROqG7UHn+iPoeiWo/w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "srv-read-bigquery-f8g3@python-rocket-1.iam.gserviceaccount.com",
+  "client_id": "117611638995276478471",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/srv-read-bigquery-f8g3%40python-rocket-1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
