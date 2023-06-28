@@ -1,5 +1,16 @@
 # Instructions  
 
+### What you will learn
+- What is a cloud service
+- Read data from GCP storage
+- Read data from GCP Big Query
+- SQL: create relations between tables
+- SQL: join tables
+- SQL: create views
+
+
+
+
 ### Requestions
 Before we start, make sure you already finished the Replit "ETL - Shopping Mall".
 Skills you should already have:

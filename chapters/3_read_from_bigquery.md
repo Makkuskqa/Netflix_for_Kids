@@ -33,12 +33,12 @@ Also it is a manged service, so you dont need to take care of the sofware undern
 !BUT: You have to be careful because of possible high costs. When you accidentally make a very complicated data on huge datasets this can cost a lot of money. In our lesson we only use small data and standard queries.
 
 
-_**TASK 4:**_
+_**TASK 4 (CODING):**_
 
 We will now use pandas, to read directly from a big query table.
 Information you need:
 
-- Use pandas to read the big query table "ratings" from the dataset "etl_netflix" from the project "python-rocket-1". Store the dataframe as a csv here: "data_sources/ratings_data.csv"
+- Use pandas to read the big query table "ratings" from the dataset "etl_netflix" from the project "python-rocket-1". Store the dataframe as a csv here: "data_sources/ratings.csv"
 - Check out the documentation how to use pandas to read directly from a big query table: https://pandas.pydata.org/docs/reference/api/pandas.read_gbq.html
 - Check out an example Query here: https://cloud.google.com/bigquery/docs/samples/bigquery-pandas-gbq-read-gbq-simple
 - Here again we need to add authorization. For that use the service user "chapters/1_GCP/service_user_read_bigquery.json". Use the same approach like with GCP Storage.
