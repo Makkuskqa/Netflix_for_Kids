@@ -1,12 +1,10 @@
-# Save data in SQL
+
+# SQL Relations
 
 You already know how to save a table in a SQL database. Now we want to add some more knowledge about SQL tables.
 
 One of the big benefits of a SQL database is that it is a "relational" database. What does that mean? 
 It means that in SQL we have to define relations between different tables. This can give the user a better understanding how all the data is related. And it also makes the process of searching or changing data much more efficient.
-
-
-# SQL relations
 
 Imagine we have 2 tables.
 
@@ -69,14 +67,14 @@ In SQL there is a way how to visualise relations between tables. Here is a visua
 
 ## SQL Relations Tasks
 
-_**TASK 5 (THEORY):**_
+### TASK 5 (THEORY):
 
 I already explained you the main concepts of relationship. But in addition to that here is more material.
 - Check out this video here:  https://www.youtube.com/watch?v=4q-keGvUnag
 - Explain with your own words and write it in learnarea/your_answers.txt: what are relations? what are the primary key and foreign key? which relation types we have between 2 tables? Use the knowledge from my explanation and the video.
 
 
-_**TASK 6 (CODING):**_
+### TASK 6 (CODING):
 
 Now lets test the knowledge and create your own relations between tables:
 - Check out this documentation about how to create a primary key in a table: https://www.techonthenet.com/sqlite/primary_keys.php
@@ -84,10 +82,12 @@ Now lets test the knowledge and create your own relations between tables:
 - Open the file learnarea/sql_relations.py and follow the instructions.
 
 
-_**TASK 7 (PROJECT):**_
+### TASK 7 (PROJECT):
+
 Now lets continue on our ETL project. 
 - Create a SQL table for each of the 3 csvs, with the names (NETFLIX_SHOWS, NETFLIX_METADATA, RATINGS)
-- Make sure to create Primary and Seconday Keys
+- Make sure to define the data SCHEMA yourself with the "CREATE TABLE" statement. 
+- Make sure to add Primary and Seconday Keys
 - Insert the data into the tables.
 - In the end you should have 3 tables wwith relations.
 - Create a diagram for the sql relations and save the image in the folder "graphics". For that you can use some drawing tool or for example a free tool like: https://app.diagrams.net There are many other more modern free tools where you just need to create an accoun. Or you just use paint, powerpoint..

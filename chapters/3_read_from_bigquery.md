@@ -33,7 +33,7 @@ Also it is a manged service, so you dont need to take care of the sofware undern
 !BUT: You have to be careful because of possible high costs. When you accidentally make a very complicated data on huge datasets this can cost a lot of money. In our lesson we only use small data and standard queries.
 
 
-_**TASK 4 (CODING):**_
+### TASK 4 (CODING):
 
 We will now use pandas, to read directly from a big query table.
 Information you need:

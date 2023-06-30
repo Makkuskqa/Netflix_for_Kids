@@ -105,59 +105,12 @@ INNER JOIN DIRECTOR d ON m.director_id = d.id
 
 ## SQL JOIN Tasks
 
-_**TASK 9 (CODING):**_
+### TASK 8 (CODING):
 Now you will do your own JOINS. 
 - Go through the file file learnarea/sql_joins.py
 
 
-_**TASK 10 (PROJECT):**_
+### TASK 9 (PROJECT):
 Now lets use JOINS in our ETL project.
 - Create a new table "NETFLIX_META_WITH_RATING". For that JOIN 2 of the tables so we get the follwing: We want all rows and columns from the table "NETFLIX_SHOWS". But for the column "ratings" instead of the number we want the actual name of the rating.
 - JOIN 2 of the tables
-
-
-# SQL VIEWS
-Think of a view as a saved query that you can treat as a table.
-Lets say you use the inner join from above. But this time we also add a "WHERE" condition. We want to filter for movies from "Christopher Nolan":
-
-```sql
-SELECT m.id, m.name, m.director_id, d.name
-FROM MOVIES m
-INNER JOIN DIRECTOR d ON m.director_id = d.id
-WHERE d.name = "Christopher Nolan
-```
-
-The result would look semething like this. We would have only those 2 rows.
-![image](image_22.png)
-
-Now we could take the result and load it into a pandas datafram and then work with the data. But lets say, we want to execute the JOIN many times, for example once a day. 
-
-We can save the SQL query in a view. Lets first check the code. It is the same sql query. we just added "CREATE VIEW MOVIES_NOLAN AS". 
-
-```sql
-CREATE VIEW MOVIES_NOLAN AS
-SELECT m.id, m.name, m.director_id, d.name
-FROM MOVIES m
-INNER JOIN DIRECTOR d ON m.director_id = d.id
-WHERE d.name = "Christopher Nolan
-```
-
-What will happen?
-Now in your database you with the command "show tables;" you will see something that looks like a table with the name "MOVIES_NOLAN".
-
-![image](image_23.png)
-
-You can now use it as if it is a table. You can for example use this query:
-
-```sql
-SELECT name
-FROM MOVIES_NOLAN m
-```
-
-And you will get:
-![image](image_24.png)
-
-So, what makes a view different then a table?
-We dont store the data of the view. We only store the sql query. Only then when we query the view, the sql query of the view will be executed.
-
-_**TASK 9 (CODING):**_

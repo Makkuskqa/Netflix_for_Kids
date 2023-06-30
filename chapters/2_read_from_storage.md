@@ -1,14 +1,14 @@
 
 # GCP Storage
-First of all we are going to explore the most simple service: Storage. 
-I created a GCP account and uploaded a file into GCP storage. Now you are able to download this file. But in order to download it you need 3 information.
+First of all we are going to explore the most simple service: Storage. what is it? Like the name says its a service from GCP where you can store files. 
+I created a GCP account and uploaded a file into GCP storage. Now you are able to download this file. But in order to download it you need 3 informations.
 
 1) The path where to find the file
 2) Permissions to read and download this file
 3) A Python library to execute the download
 
 ### 1) Path of the File
-Imagine GCP Storage works like the directory on your computer. So we need the "directory" where to find the file and the name of the file. In GCP storage you need
+Imagine GCP Storage works like the directory on your computer. So we need the "directory" where to find the file and the name of the file. To locate a file in GCP storage you need:
 - Project Id: This is where all the GCP resources of a specific project are bundled
 - Bucket name: Think about it as the directory on the first level. That where we start to look.
 - File path: This is the excact path of the file inside the bucket.
@@ -34,7 +34,7 @@ Now we can download this file with different programming languages. Since we wri
 
 
 ## Download file from GCP Storage
-_**TASK 1 (CODING):**_
+### TASK 1 (PROJECT):
 - Read the official GCP documentation how to download a file from GCP storage and use the python code as a first template:
 - link: https://cloud.google.com/storage/docs/downloading-objects#client-libraries-download-object
 This code here:
@@ -45,7 +45,7 @@ This code here:
 ![image](assets/project_error.png)
 
 
-_**TASK 2 (CODING):**_
+### TASK 2 (PROJECT):
 Now we need to adjust the code, to specify the project id. GCP needs this information to know where to search for the bucket and the file. In our Python code we ist this command:
 "storage.Client()". This creates the connection the GCP storage. Now we need to add the project id as a parameter. 
 - Check out the documentation about the method "Client()": https://gcloud.readthedocs.io/en/latest/storage-client.html
@@ -55,7 +55,7 @@ If you did everything right now you should get a NEW error which looks like this
 The error message is (like often) not saying much. But the error appears basically because we didnt authorize ourselves, so we still have no permissions to download the file.
 
 
-_**TASK 3 (CODING):**_
+### TASK 3 (PROJECT):
 Now we need to add authorization in our code. I told you before that on way is to use a json file with the credentials of a service-user.
 
 - Check the documentation again and first figure out if our method "storage.Client()" has a mechanism for authorization.
