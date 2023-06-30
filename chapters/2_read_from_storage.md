@@ -13,11 +13,6 @@ Imagine GCP Storage works like the directory on your computer. So we need the "d
 - Bucket name: Think about it as the directory on the first level. That where we start to look.
 - File path: This is the excact path of the file inside the bucket.
 
-The project id is: "python-rocket-1"
-The bucket name is: "python-rocket-source-data-4s23"
-The file path is: "etl-netflix/netflix_content.csv"
-The file path is: "etl-netflix/netflix_content.csv"
-
 So now you can say to google: Look into the project "python-rocket-1". Go into the bucket "python-rocket-source-data-4s23" and give me the file "etl-placement-report/test.csv".
 
 ### 2) Authorization
@@ -35,18 +30,22 @@ Now we can download this file with different programming languages. Since we wri
 
 ## Download file from GCP Storage
 ### TASK 1 (PROJECT):
-- Read the official GCP documentation how to download a file from GCP storage and use the python code as a first template:
-- link: https://cloud.google.com/storage/docs/downloading-objects#client-libraries-download-object
+- Read the official GCP documentation how to download a file from GCP storage and use the python code as a first template: https://cloud.google.com/storage/docs/downloading-objects#client-libraries-download-object
 This code here:
 ![image](assets/gcp_storage_python_3.png)
 - Use this function in our main file.
-- Define the 3 parameter which are used in the function.
+- Define the 3 parameter which are used in the function. There are explained in the function.
+
+1) bucket name is: "python-rocket-source-data-4s23"
+2) gcp file path is: "etl-netflix/netflix_content.csv"
+3) destination path: program/data_sources
+
 - Execute this function. If everything went well, you now should get a permission error. Because you still dont have the permission to read the file. The error should look like this:
 ![image](assets/project_error.png)
 
 
 ### TASK 2 (PROJECT):
-Now we need to adjust the code, to specify the project id. GCP needs this information to know where to search for the bucket and the file. In our Python code we ist this command:
+Now we need to adjust the code, to specify the project id. GCP needs this information to know where to search for the bucket and the file. In function to download the file, we use this command:
 "storage.Client()". This creates the connection the GCP storage. Now we need to add the project id as a parameter. 
 - Check out the documentation about the method "Client()": https://gcloud.readthedocs.io/en/latest/storage-client.html
 - Now use the projectid: "python-rocket-1" and execute the code again.
