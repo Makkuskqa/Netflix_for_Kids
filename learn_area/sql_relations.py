@@ -1,8 +1,8 @@
 ## SQL RELATIONS
 import sqlite3
-# 1) Create a SQllite Database
+# 1) Create a SQllite Database with the name test_database.db in the directory "learn_area"
 
-conn = sqlite3.connect('learnarea/test_database.db')
+conn = sqlite3.connect('learn_area/test_database.db')
 
 # 2) Create those 2 SQL tables with this data and add Primary Key and Foriegn Key (where it makes sense)
 """
@@ -67,22 +67,25 @@ cursor.executescript(script)
 # Commit the changes
 conn.commit()
 
-# Create a cursor object to execute SQL queries
-cursor = conn.cursor()
 
-# Check "GAME_OF_THRONES_HOUSES" table
-cursor.execute("SELECT * FROM GAME_OF_THRONES_HOUSES")
-houses_data = cursor.fetchall()
-print("GAME_OF_THRONES_HOUSES:")
-for row in houses_data:
-  print(row)
-print()
+
+# Check the content of the "GAME_OF_THRONES_HOUSES" table
 
 # 3) Now lets check if everything was created like we intended.
 
 # a) Check the data of each table
 
-# b) Check the relations. For that execute the function "get_relations" from the file "helper_functions.py" and execute the function in the console. This will show you primary key and foreign key of the tables. The result should look like this:
+# Create a cursor object to execute SQL queries
+cursor = conn.cursor()
+tables = ["GAME_OF_THRONES_HOUSES", "GAME_OF_THRONES_CHARACTERS"]
+for table in tables:
+  cursor.execute(f"SELECT * FROM {table}")
+  houses_data = cursor.fetchall()
+  print(f"{table}:")
+  for row in houses_data:
+    print(row)
+
+# b) Check the relations. For that execute the function "get_relations" from the file "helper_functions.py" and execute the function in the console. This will show you primary key and foreign key of the tables. If you did everything right, the result now should look like this:
 """
 Table: GAME_OF_THRONES_HOUSES
 Related Tables:  
@@ -95,4 +98,4 @@ Primary Key:  id
 Foreign Key:  house_id
 """
 
-# FINISHED: Now get back to the lesson.
+# FINISHED: Now get back to the instructions.
