@@ -3,9 +3,9 @@
     "learn_area/sql_relations.py": [
       {
         "id": "d08b7e0d-97e9-4124-bb38-0ce36a627eb2",
-        "line": 14,
-        "version": 252,
-        "index": 382
+        "line": 12,
+        "version": 1,
+        "index": 313
       }
     ],
     "lessons/4_save_in_sql.md": [

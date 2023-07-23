@@ -42,13 +42,13 @@ reponse_dic = json.loads(response.text)
 # 6) Check the data of the dictionary. The person who programmed the API decided what data should be in the response text and how it will be structured.
 
 # a) which keys 
-reponse_dic.keys()
+print(reponse_dic.keys())
 
 # b) check the predicted gender
 reponse_dic["gender"]
 
 # c) check the probability of the prediction model
-reponse_dic["probability"]
+print(reponse_dic["probability"])
 
 
 # TASK A)
@@ -57,5 +57,21 @@ Now choose at least 2 different free public apis that dont require authorization
 
 Use GET reqeusts to interact with them. For each make a call which results in an error. Explain why the orrur occured. And make one successfull call and extract some data you are interested in.
 """
+
+URL = 'https://api.coindesk.com/v1/bpi/currentprice.json'
+Responce = requests.get(url=URL)
+print(Responce)
+
+response_dic = json.loads(Responce.text)
+print(response_dic.keys())
+print(response_dic['bpi']['USD'])
+
+
+URL_combined = 'https://api.publicapis.org/entries?name=count'
+Responce_url_comnined = requests.get(url=URL_combined)
+print(Responce_url_comnined) # ?name=count -- it's one of from dict keys while we read it with json.loads
+
+#responce_dict_Urlcombined = json.loads(Responce_url_comnined.text)
+#print(responce_dict_Urlcombined.keys())
 
 # FINISHED: Now get back to the instructions.
