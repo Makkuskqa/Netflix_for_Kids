@@ -41,14 +41,16 @@ def split_dataframe(df, n):
     chunks = [df.iloc[i:i + chunk_size] for i in range(0, len(df), chunk_size)]
     return chunks
 
+
+
+
+
 if __name__ == "__main__":
     start_time = pd.Timestamp.now() 
     results = pd.DataFrame()
 
     from t16_19_clear_target_forKIDS import main_t16_19
     df = main_t16_19()
-
-
 
     API_KEYS = ['30715a8d', '7dc0a921', '17f3c841', 'b83ba0de', 'a0080555', '8901cd38']
     df_chunks = split_dataframe(df, len(API_KEYS))
@@ -59,15 +61,13 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"Error while processing data: {e}")
         results_list = []
-
     pool.close()
     pool.join()
-
     for result in results_list:
         results = results._append(result, ignore_index=True)
         
-    results.to_csv('program/data_sources/Additional_info_by_Movie_Target_kids2.csv')
 
+    results.to_csv('program/data_sources/Additional_info_by_Movie_Target_kids2.csv')
     conn = sqlite3.connect('program/database/netflix_database.db')
     try:
         results.to_sql('Additional_info_by_Movie_Target_kids', conn, if_exists='append', index=False, method='multi')

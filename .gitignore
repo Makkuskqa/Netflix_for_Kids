@@ -1,2 +1,6 @@
 venv
 venv/*
+service_user_read_bigquery.json
+service_user_read_file.json
+
+local-env/

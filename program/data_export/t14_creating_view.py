@@ -27,7 +27,7 @@ class Database:
         # TODO : Craete VIEW and JOIN NETFLIX_SHOWS column <rating> with Ratings column <name>
 
         self.cursor.execute("""
-        CREATE VIEW  VIEW_NETFLIX_META_WITH_RATING AS 
+        CREATE VIEW  IF NOT EXISTS VIEW_NETFLIX_META_WITH_RATING AS 
         WITH updated_ratings AS (
             SELECT NS.*, R.name AS rating_name
             FROM NETFLIX_SHOWS NS
@@ -63,7 +63,7 @@ class Database:
 def main_t14():
 
     db = Database()
-    db.connect('m/database/netflix_database.db')
+    db.connect('program/database/netflix_database.db')
     db.view_Netflis_shows_withRaTING()
     db.show_view()
     db.close()

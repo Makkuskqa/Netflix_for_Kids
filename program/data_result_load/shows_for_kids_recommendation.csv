@@ -1,0 +1,1164 @@
+show_id,type,Genre,popularity,imdbRating_Scores_3Stars,imdbVotes_Scores_3Stars,Awards_qScores_5Stars,Total_Rating_5Stars
+s22,TV Show,,1,0.0,0.0,0.0,1
+s448,Movie,,2,0.0,0.0,0.0,1
+s449,Movie,,2,0.0,0.0,0.0,1
+s1744,Movie,,2,0.0,0.0,0.0,1
+s2278,Movie,,1,0.0,0.0,0.0,1
+s2538,Movie,"Animation, Short, Comedy",1,2.0,2.0,0.0,2
+s2851,Movie,,1,0.0,0.0,0.0,1
+s3934,Movie,,1,0.0,0.0,0.0,1
+s3985,TV Show,,1,0.0,0.0,0.0,1
+s4162,Movie,,1,0.0,0.0,0.0,1
+s4187,Movie,,1,0.0,0.0,0.0,1
+s4450,Movie,,1,0.0,0.0,0.0,1
+s4800,Movie,,1,0.0,0.0,0.0,1
+s5185,TV Show,,1,0.0,0.0,0.0,1
+s5251,TV Show,,1,0.0,0.0,0.0,1
+s5384,TV Show,,1,0.0,0.0,0.0,1
+s5385,TV Show,,1,0.0,0.0,0.0,1
+s5669,TV Show,,1,0.0,0.0,0.0,1
+s5777,Movie,,2,0.0,0.0,0.0,1
+s6156,Movie,,1,0.0,0.0,0.0,1
+s6677,TV Show,,2,0.0,0.0,0.0,1
+s6855,Movie,,1,0.0,0.0,0.0,1
+s7148,Movie,,2,0.0,0.0,0.0,1
+s7447,TV Show,,1,0.0,0.0,0.0,1
+s7957,Movie,,2,0.0,0.0,0.0,1
+s8000,Movie,,1,0.0,0.0,0.0,1
+s8022,TV Show,,1,0.0,0.0,0.0,1
+s8529,Movie,,1,0.0,0.0,0.0,1
+s8696,Movie,,1,0.0,0.0,0.0,1
+s7,Movie,"Animation, Adventure, Comedy",1,2.0,3.0,2.0,3
+s24,Movie,"Animation, Family",1,0.0,1.0,0.0,1
+s35,TV Show,,1,0.0,0.0,0.0,1
+s40,TV Show,"Animation, Action, Adventure",1,1.0,2.0,4.0,3
+s40,TV Show,"Animation, Action, Adventure",1,1.0,2.0,4.0,3
+s40,TV Show,"Animation, Action, Adventure",1,1.0,2.0,4.0,3
+s40,TV Show,"Animation, Action, Adventure",1,1.0,2.0,4.0,3
+s41,TV Show,"Animation, Action, Adventure",2,3.0,3.0,3.0,5
+s54,Movie,,2,0.0,0.0,0.0,1
+s55,Movie,,2,0.0,0.0,0.0,1
+s58,Movie,,2,0.0,0.0,0.0,1
+s59,Movie,,2,0.0,0.0,0.0,1
+s60,Movie,,2,0.0,0.0,0.0,1
+s62,Movie,"Animation, Action, Adventure",2,2.0,3.0,0.0,3
+s63,Movie,"Animation, Action, Adventure",2,2.0,3.0,0.0,3
+s64,Movie,"Animation, Action, Adventure",2,2.0,3.0,0.0,3
+s66,TV Show,"Animation, Family",2,3.0,2.0,0.0,3
+s72,Movie,"Animation, Short, Adventure",1,0.0,1.0,0.0,1
+s76,Movie,"Short, Adventure",1,1.0,2.0,4.0,3
+s78,Movie,,1,0.0,0.0,0.0,1
+s81,Movie,,1,0.0,0.0,0.0,1
+s86,TV Show,,1,0.0,0.0,0.0,1
+s88,TV Show,"Animation, Adventure, Comedy",1,0.0,1.0,0.0,1
+s90,TV Show,Animation,1,1.0,1.0,0.0,1
+s98,TV Show,"Animation, Short, Action",2,3.0,2.0,4.0,5
+s99,TV Show,"Animation, Family",2,3.0,1.0,2.0,3
+s101,TV Show,Animation,1,3.0,1.0,0.0,2
+s105,TV Show,,1,0.0,0.0,0.0,1
+s108,Movie,Family,2,2.0,2.0,0.0,3
+s112,TV Show,"Animation, Short, Adventure",1,2.0,1.0,0.0,2
+s117,Movie,,1,0.0,0.0,0.0,1
+s121,TV Show,"Animation, Action, Comedy",2,3.0,1.0,0.0,3
+s131,Movie,,1,0.0,0.0,0.0,1
+s138,Movie,"Action, Adventure, Comedy",1,1.0,3.0,3.0,3
+s154,TV Show,"Animation, Adventure, Comedy",1,3.0,1.0,0.0,2
+s168,Movie,"Animation, Adventure, Comedy",1,1.0,3.0,2.0,3
+s169,Movie,"Animation, Action, Adventure",2,2.0,3.0,3.0,4
+s185,TV Show,,2,0.0,0.0,0.0,1
+s188,TV Show,"Short, Comedy",1,2.0,2.0,0.0,2
+s190,TV Show,"Animation, Comedy, Fantasy",1,2.0,1.0,0.0,2
+s198,TV Show,"Animation, Short, Adventure",1,3.0,1.0,0.0,2
+s214,TV Show,,1,0.0,0.0,0.0,1
+s221,TV Show,"Comedy, Family",2,2.0,2.0,5.0,5
+s233,TV Show,"Family, Game-Show",2,2.0,3.0,5.0,5
+s250,Movie,"Animation, Adventure, Comedy",1,2.0,2.0,2.0,3
+s255,TV Show,"Animation, Short, Adventure",2,3.0,2.0,4.0,5
+s270,TV Show,"Animation, Action, Adventure",2,2.0,3.0,4.0,5
+s273,TV Show,,2,0.0,0.0,0.0,1
+s280,Movie,"Animation, Action, Adventure",1,1.0,2.0,0.0,2
+s287,TV Show,"Animation, Adventure, Comedy",2,3.0,2.0,1.0,3
+s295,Movie,,1,0.0,0.0,0.0,1
+s301,Movie,"Animation, Adventure, Comedy",1,2.0,3.0,3.0,4
+s307,Movie,,1,0.0,0.0,0.0,1
+s325,TV Show,"Animation, Adventure, Comedy",2,2.0,2.0,1.0,3
+s331,Movie,"Animation, Adventure, Comedy",1,3.0,3.0,3.0,4
+s346,Movie,"Animation, Adventure, Comedy",1,1.0,3.0,2.0,3
+s348,Movie,"Animation, Adventure, Comedy",1,2.0,3.0,4.0,4
+s365,TV Show,"Animation, Short, Adventure",1,3.0,2.0,4.0,4
+s377,TV Show,,1,0.0,0.0,0.0,1
+s387,TV Show,"Animation, Adventure, Comedy",1,1.0,1.0,1.0,2
+s394,Movie,,2,0.0,0.0,0.0,1
+s400,TV Show,"Animation, Action, Adventure",1,1.0,3.0,2.0,3
+s401,TV Show,,1,0.0,0.0,0.0,1
+s406,Movie,,1,0.0,0.0,0.0,1
+s407,Movie,,1,0.0,0.0,0.0,1
+s408,Movie,,1,0.0,0.0,0.0,1
+s409,Movie,,1,0.0,0.0,0.0,1
+s410,Movie,,1,0.0,0.0,0.0,1
+s411,Movie,,1,0.0,0.0,0.0,1
+s412,Movie,,1,0.0,0.0,0.0,1
+s413,Movie,,1,0.0,0.0,0.0,1
+s414,Movie,,1,0.0,0.0,0.0,1
+s415,Movie,,1,0.0,0.0,0.0,1
+s416,Movie,,1,0.0,0.0,0.0,1
+s417,Movie,,1,0.0,0.0,0.0,1
+s418,Movie,Animation,1,0.0,1.0,0.0,1
+s419,Movie,,1,0.0,0.0,0.0,1
+s420,Movie,,1,0.0,0.0,0.0,1
+s421,Movie,,1,0.0,0.0,0.0,1
+s422,Movie,,1,0.0,0.0,0.0,1
+s423,Movie,,1,0.0,0.0,0.0,1
+s424,Movie,,1,0.0,0.0,0.0,1
+s425,Movie,,1,0.0,0.0,0.0,1
+s433,Movie,"Animation, Action, Adventure",1,2.0,3.0,2.0,3
+s443,TV Show,"Animation, Action, Adventure",1,1.0,3.0,3.0,3
+s461,Movie,"Animation, Adventure, Comedy",1,2.0,3.0,5.0,5
+s473,TV Show,"Animation, Adventure, Comedy",2,1.0,2.0,4.0,4
+s485,Movie,Comedy,3,1.0,1.0,0.0,2
+s487,Movie,,1,0.0,0.0,0.0,1
+s507,Movie,,2,0.0,0.0,0.0,1
+s510,TV Show,"Animation, Adventure, Comedy",2,3.0,2.0,4.0,5
+s513,TV Show,"Animation, Action, Adventure",1,3.0,3.0,0.0,3
+s526,TV Show,"Animation, Adventure, Comedy",1,3.0,3.0,4.0,5
+s528,TV Show,"Animation, Family",1,3.0,2.0,4.0,4
+s531,TV Show,"Comedy, Family",2,1.0,3.0,2.0,3
+s536,TV Show,"Comedy, Family",2,1.0,2.0,4.0,4
+s540,TV Show,"Action, Adventure, Comedy",1,2.0,3.0,4.0,4
+s541,TV Show,"Comedy, Family, Fantasy",1,2.0,2.0,2.0,3
+s546,TV Show,Family,1,2.0,1.0,0.0,2
+s548,TV Show,"Animation, Short, Comedy",2,1.0,2.0,4.0,4
+s566,TV Show,,1,0.0,0.0,0.0,1
+s574,Movie,"Animation, Action, Adventure",1,3.0,3.0,5.0,5
+s575,Movie,"Animation, Action, Adventure",1,3.0,3.0,5.0,5
+s589,TV Show,"Animation, Adventure, Family",2,1.0,1.0,0.0,2
+s591,TV Show,"Animation, Action, Adventure",1,3.0,2.0,2.0,3
+s594,Movie,"Adventure, Comedy, Family",2,1.0,3.0,2.0,3
+s629,TV Show,"Animation, Action, Adventure",2,3.0,1.0,0.0,3
+s714,TV Show,,2,0.0,0.0,0.0,1
+s720,TV Show,"Action, Adventure, Comedy",2,2.0,2.0,1.0,3
+s721,TV Show,"Animation, Adventure, Comedy",1,3.0,1.0,0.0,2
+s724,TV Show,"Family, Game-Show",2,2.0,1.0,4.0,4
+s734,TV Show,,2,0.0,0.0,0.0,1
+s740,Movie,"Animation, Adventure, Comedy",1,3.0,3.0,2.0,4
+s752,TV Show,Animation,1,1.0,1.0,0.0,1
+s758,Movie,,2,0.0,0.0,0.0,1
+s781,TV Show,,2,0.0,0.0,0.0,1
+s812,Movie,"Animation, Family",1,2.0,1.0,0.0,2
+s830,Movie,,1,0.0,0.0,0.0,1
+s847,Movie,"Animation, Adventure, Comedy",2,2.0,3.0,4.0,5
+s850,Movie,,1,0.0,0.0,0.0,1
+s856,TV Show,,2,0.0,0.0,0.0,1
+s862,Movie,,1,0.0,0.0,0.0,1
+s864,Movie,,2,0.0,0.0,0.0,1
+s875,TV Show,"Animation, Comedy, Family",2,3.0,1.0,0.0,3
+s883,Movie,"Animation, Adventure, Comedy",1,1.0,2.0,1.0,2
+s924,TV Show,"Animation, Family",1,3.0,2.0,4.0,4
+s925,Movie,"Adventure, Comedy, Family",2,1.0,2.0,4.0,4
+s928,TV Show,,1,0.0,0.0,0.0,1
+s936,Movie,"Animation, Adventure, Comedy",2,2.0,3.0,4.0,5
+s938,Movie,,1,0.0,0.0,0.0,1
+s939,Movie,,1,0.0,0.0,0.0,1
+s940,Movie,Animation,1,0.0,0.0,0.0,1
+s941,Movie,,1,0.0,0.0,0.0,1
+s942,Movie,"Animation, Adventure, Comedy",1,0.0,0.0,0.0,1
+s955,Movie,,2,0.0,0.0,0.0,1
+s962,Movie,,1,0.0,0.0,0.0,1
+s974,Movie,,1,0.0,0.0,0.0,1
+s992,Movie,,1,0.0,0.0,0.0,1
+s993,Movie,,1,0.0,0.0,0.0,1
+s998,TV Show,,1,0.0,0.0,0.0,1
+s1007,Movie,,1,0.0,0.0,0.0,1
+s1008,Movie,,1,0.0,0.0,0.0,1
+s1009,Movie,,1,0.0,0.0,0.0,1
+s1010,Movie,,1,0.0,0.0,0.0,1
+s1011,Movie,,1,0.0,0.0,0.0,1
+s1015,TV Show,"Animation, Action, Adventure",1,1.0,2.0,4.0,3
+s1020,Movie,,1,0.0,0.0,0.0,1
+s1023,Movie,"Game-Show, Music",1,2.0,1.0,0.0,2
+s1025,Movie,"Animation, Adventure, Comedy",2,2.0,2.0,2.0,3
+s1026,TV Show,,1,0.0,0.0,0.0,1
+s1027,Movie,,2,0.0,0.0,0.0,1
+s1043,TV Show,,2,0.0,0.0,0.0,1
+s1049,TV Show,"Animation, Action, Adventure",1,2.0,1.0,0.0,2
+s1050,TV Show,"Animation, Family",1,2.0,1.0,0.0,2
+s1052,TV Show,"Animation, Action, Adventure",2,2.0,3.0,0.0,3
+s1072,Movie,,1,0.0,0.0,0.0,1
+s1073,Movie,,1,0.0,0.0,0.0,1
+s1074,Movie,,1,0.0,0.0,0.0,1
+s1075,Movie,,1,0.0,0.0,0.0,1
+s1082,TV Show,"Comedy, Family",2,1.0,2.0,5.0,4
+s1097,Movie,"Animation, Short, Comedy",1,3.0,1.0,0.0,2
+s1102,Movie,"Animation, Adventure, Comedy",1,2.0,3.0,1.0,3
+s1105,Movie,,1,0.0,0.0,0.0,1
+s1113,Movie,"Animation, Adventure, Comedy",2,1.0,3.0,0.0,3
+s1138,Movie,"Animation, Adventure, Comedy",1,2.0,2.0,2.0,3
+s1149,TV Show,"Animation, Adventure, Comedy",1,2.0,1.0,0.0,2
+s1150,TV Show,"Animation, Action, Adventure",2,3.0,3.0,1.0,4
+s1152,Movie,,3,0.0,0.0,0.0,1
+s1153,TV Show,"Animation, Short, Adventure",2,2.0,1.0,0.0,2
+s1171,Movie,"Animation, Adventure, Comedy",1,2.0,3.0,2.0,3
+s1180,TV Show,"Action, Adventure, Family",1,1.0,3.0,1.0,3
+s1181,TV Show,"Animation, Comedy, Family",1,2.0,2.0,2.0,3
+s1184,Movie,,1,0.0,0.0,0.0,1
+s1190,Movie,Comedy,2,3.0,2.0,1.0,3
+s1194,Movie,,1,0.0,0.0,0.0,1
+s1201,TV Show,Family,2,3.0,2.0,2.0,4
+s1204,Movie,"Adventure, Family, Fantasy",1,2.0,3.0,5.0,5
+s1210,Movie,,1,0.0,0.0,0.0,1
+s1219,Movie,,2,0.0,0.0,0.0,1
+s1220,Movie,,1,0.0,0.0,0.0,1
+s1236,TV Show,"Animation, Adventure, Comedy",1,3.0,2.0,0.0,3
+s1246,TV Show,"Animation, Family",2,1.0,2.0,0.0,2
+s1248,Movie,,1,0.0,0.0,0.0,1
+s1254,Movie,,2,0.0,0.0,0.0,1
+s1259,Movie,"Animation, Adventure, Family",1,2.0,2.0,1.0,3
+s1279,Movie,Comedy,2,3.0,2.0,0.0,3
+s1290,Movie,,1,0.0,0.0,0.0,1
+s1309,TV Show,"Animation, Comedy, Family",2,3.0,2.0,0.0,3
+s1320,Movie,"Animation, Family, Fantasy",1,1.0,2.0,2.0,3
+s1333,TV Show,,2,0.0,0.0,0.0,1
+s1338,Movie,,1,0.0,0.0,0.0,1
+s1363,TV Show,"Animation, Action, Adventure",1,3.0,3.0,2.0,4
+s1365,Movie,,2,0.0,0.0,0.0,1
+s1370,Movie,,2,0.0,0.0,0.0,1
+s1373,Movie,,1,0.0,0.0,0.0,1
+s1381,TV Show,,1,0.0,0.0,0.0,1
+s1396,TV Show,"Animation, Action, Adventure",2,3.0,1.0,3.0,4
+s1402,TV Show,"Animation, Action, Adventure",2,3.0,3.0,5.0,5
+s1405,TV Show,"Action, Comedy, Family",2,2.0,3.0,5.0,5
+s1407,Movie,,2,0.0,0.0,0.0,1
+s1408,Movie,"Animation, Adventure, Family",1,1.0,1.0,0.0,1
+s1425,Movie,"Animation, Adventure, Comedy",1,1.0,3.0,0.0,2
+s1430,TV Show,"Animation, Comedy, Family",1,1.0,1.0,0.0,1
+s1435,Movie,"Animation, Adventure, Comedy",1,2.0,3.0,2.0,3
+s1452,Movie,Family,2,1.0,2.0,0.0,2
+s1464,TV Show,"Animation, Adventure, Comedy",1,2.0,2.0,4.0,4
+s1466,TV Show,"Comedy, Family, Fantasy",2,1.0,2.0,4.0,4
+s1483,TV Show,,1,0.0,0.0,0.0,1
+s1486,Movie,"Animation, Action, Adventure",1,3.0,3.0,5.0,5
+s1491,Movie,,2,0.0,0.0,0.0,1
+s1506,TV Show,"Animation, Family",2,3.0,1.0,0.0,3
+s1507,TV Show,"Animation, Short, Comedy",1,3.0,3.0,5.0,5
+s1508,Movie,,2,0.0,0.0,0.0,1
+s1509,TV Show,"Animation, Short, Comedy",2,2.0,2.0,5.0,5
+s1532,Movie,,1,0.0,0.0,0.0,1
+s1546,TV Show,Family,2,2.0,2.0,4.0,4
+s1552,TV Show,"Animation, Adventure, Comedy",1,3.0,3.0,5.0,5
+s1556,TV Show,,2,0.0,0.0,0.0,1
+s1557,Movie,"Animation, Short, Adventure",1,1.0,1.0,0.0,1
+s1566,Movie,,1,0.0,0.0,0.0,1
+s1573,TV Show,"Comedy, Family",2,2.0,2.0,0.0,3
+s1574,TV Show,Comedy,2,2.0,2.0,2.0,3
+s1576,Movie,,2,0.0,0.0,0.0,1
+s1577,Movie,,2,0.0,0.0,0.0,1
+s1581,Movie,"Animation, Short, Action",2,2.0,1.0,0.0,2
+s1582,Movie,,1,0.0,0.0,0.0,1
+s1589,Movie,"Animation, Family",2,1.0,1.0,0.0,2
+s1592,Movie,,2,0.0,0.0,0.0,1
+s1598,Movie,"Animation, Family, Fantasy",2,2.0,2.0,2.0,3
+s1601,Movie,"Animation, Family",1,2.0,1.0,0.0,2
+s1610,Movie,"Animation, Adventure, Comedy",2,3.0,2.0,2.0,4
+s1615,TV Show,Animation,1,1.0,1.0,0.0,1
+s1617,Movie,"Animation, Comedy, Family",2,2.0,3.0,5.0,5
+s1619,TV Show,,1,0.0,0.0,0.0,1
+s1633,Movie,"Animation, Short, Adventure",2,1.0,1.0,0.0,2
+s1636,Movie,"Animation, Short, Family",2,2.0,1.0,0.0,2
+s1645,Movie,"Comedy, Fantasy",1,1.0,1.0,2.0,2
+s1651,Movie,Music,1,3.0,2.0,0.0,3
+s1652,Movie,"Adventure, Comedy, Family",2,2.0,3.0,1.0,3
+s1656,Movie,"Animation, Family",2,2.0,1.0,0.0,2
+s1664,Movie,,2,0.0,0.0,0.0,1
+s1667,Movie,"Animation, Short, Adventure",2,2.0,2.0,1.0,3
+s1672,Movie,Comedy,2,1.0,2.0,0.0,2
+s1688,TV Show,"Animation, Adventure, Comedy",2,2.0,3.0,3.0,4
+s1694,TV Show,"Animation, Action, Adventure",2,2.0,1.0,0.0,2
+s1695,Movie,"Animation, Adventure, Comedy",2,2.0,3.0,5.0,5
+s1697,TV Show,"Animation, Adventure, Comedy",1,2.0,1.0,2.0,3
+s1703,Movie,"Animation, Comedy, Family",1,0.0,1.0,0.0,1
+s1704,Movie,"Family, Fantasy, Musical",2,2.0,3.0,4.0,5
+s1725,TV Show,"Animation, Action, Adventure",1,1.0,1.0,2.0,2
+s1739,Movie,,2,0.0,0.0,0.0,1
+s1746,Movie,,1,0.0,0.0,0.0,1
+s1750,Movie,Family,2,1.0,2.0,0.0,2
+s1752,Movie,,2,0.0,0.0,0.0,1
+s1753,Movie,,2,0.0,0.0,0.0,1
+s1754,Movie,"Animation, Family",2,1.0,2.0,0.0,2
+s1758,TV Show,,2,0.0,0.0,0.0,1
+s1759,TV Show,,2,0.0,0.0,0.0,1
+s1760,TV Show,,1,0.0,0.0,0.0,1
+s1761,TV Show,,1,0.0,0.0,0.0,1
+s1766,TV Show,"Animation, Adventure, Comedy",1,1.0,2.0,4.0,3
+s1772,TV Show,,1,0.0,0.0,0.0,1
+s1779,TV Show,Animation,1,1.0,1.0,0.0,1
+s1792,TV Show,"Animation, Family",2,2.0,1.0,0.0,2
+s1802,Movie,"Animation, Adventure, Comedy",1,2.0,3.0,5.0,5
+s1813,Movie,,1,0.0,0.0,0.0,1
+s1816,Movie,,2,0.0,0.0,0.0,1
+s1834,Movie,"Animation, Adventure, Comedy",2,3.0,3.0,5.0,5
+s1842,TV Show,"Animation, Adventure, Comedy",2,3.0,2.0,4.0,5
+s1845,Movie,"Comedy, Family, Fantasy",2,1.0,3.0,4.0,4
+s1848,TV Show,"Animation, Family",2,2.0,2.0,2.0,3
+s1853,TV Show,"Action, Adventure, Comedy",2,2.0,2.0,2.0,3
+s1860,Movie,,3,0.0,0.0,0.0,1
+s1865,TV Show,"Animation, Action, Adventure",2,3.0,3.0,2.0,4
+s1884,Movie,,2,0.0,0.0,0.0,1
+s1893,Movie,"Animation, Short, Family",1,2.0,1.0,0.0,2
+s1894,TV Show,,2,0.0,0.0,0.0,1
+s1923,TV Show,Comedy,2,2.0,2.0,4.0,4
+s1930,TV Show,Comedy,2,3.0,3.0,5.0,5
+s1964,Movie,,2,0.0,0.0,0.0,1
+s1974,TV Show,Comedy,1,0.0,1.0,0.0,1
+s1986,Movie,"Animation, Action, Adventure",2,1.0,1.0,0.0,2
+s1995,TV Show,"Game-Show, Music",2,2.0,2.0,0.0,3
+s2004,Movie,"Animation, Adventure, Comedy",1,1.0,3.0,2.0,3
+s2005,Movie,"Adventure, Family, Fantasy",1,1.0,1.0,0.0,1
+s2007,TV Show,"Animation, Short, Adventure",1,3.0,1.0,1.0,3
+s2011,Movie,"Animation, Action, Adventure",2,3.0,3.0,5.0,5
+s2012,Movie,"Animation, Adventure, Comedy",1,1.0,2.0,0.0,2
+s2019,Movie,,1,0.0,0.0,0.0,1
+s2041,TV Show,"Animation, Short, Action",1,3.0,2.0,1.0,3
+s2048,TV Show,"Animation, Action, Adventure",2,2.0,1.0,0.0,2
+s2057,Movie,"Comedy, Family",1,1.0,3.0,4.0,4
+s2062,Movie,"Animation, Family, Musical",2,1.0,2.0,0.0,2
+s2064,TV Show,"Short, Family",2,1.0,1.0,2.0,3
+s2066,Movie,"Animation, Adventure, Fantasy",1,2.0,3.0,2.0,3
+s2072,Movie,"Animation, Adventure, Comedy",2,2.0,3.0,5.0,5
+s2077,Movie,"Animation, Short, Adventure",2,1.0,2.0,1.0,3
+s2080,Movie,"Animation, Adventure, Comedy",1,1.0,3.0,4.0,4
+s2081,TV Show,,2,0.0,0.0,0.0,1
+s2082,Movie,"Animation, Family",2,2.0,1.0,0.0,2
+s2103,TV Show,,1,0.0,0.0,0.0,1
+s2108,Movie,"Action, Adventure, Comedy",2,2.0,3.0,2.0,4
+s2115,Movie,"Animation, Action",1,1.0,1.0,0.0,1
+s2117,Movie,Comedy,1,1.0,1.0,0.0,1
+s2119,TV Show,"Animation, Action, Adventure",2,3.0,2.0,0.0,3
+s2124,TV Show,,1,0.0,0.0,0.0,1
+s2132,Movie,,3,0.0,0.0,0.0,1
+s2136,TV Show,"Animation, Action, Adventure",2,3.0,3.0,4.0,5
+s2137,TV Show,Animation,2,2.0,1.0,0.0,2
+s2143,Movie,"Animation, Adventure, Comedy",2,2.0,3.0,5.0,5
+s2145,TV Show,,2,0.0,0.0,0.0,1
+s2154,TV Show,,2,0.0,0.0,0.0,1
+s2156,Movie,,2,0.0,0.0,0.0,1
+s2157,TV Show,,2,0.0,0.0,0.0,1
+s2158,TV Show,,2,0.0,0.0,0.0,1
+s2161,TV Show,,2,0.0,0.0,0.0,1
+s2162,Movie,,1,0.0,0.0,0.0,1
+s2167,Movie,,1,0.0,0.0,0.0,1
+s2168,Movie,,2,0.0,0.0,0.0,1
+s2169,TV Show,,1,0.0,0.0,0.0,1
+s2174,TV Show,,2,0.0,0.0,0.0,1
+s2175,TV Show,,2,0.0,0.0,0.0,1
+s2178,Movie,,2,0.0,0.0,0.0,1
+s2179,TV Show,,2,0.0,0.0,0.0,1
+s2182,TV Show,,2,0.0,0.0,0.0,1
+s2185,TV Show,,2,0.0,0.0,0.0,1
+s2186,Movie,,2,0.0,0.0,0.0,1
+s2189,Movie,,2,0.0,0.0,0.0,1
+s2190,TV Show,,2,0.0,0.0,0.0,1
+s2193,TV Show,,2,0.0,0.0,0.0,1
+s2208,Movie,,1,0.0,0.0,0.0,1
+s2209,Movie,,2,0.0,0.0,0.0,1
+s2213,TV Show,,2,0.0,0.0,0.0,1
+s2216,Movie,,1,0.0,0.0,0.0,1
+s2217,Movie,,1,0.0,0.0,0.0,1
+s2239,TV Show,,1,0.0,0.0,0.0,1
+s2247,TV Show,,2,0.0,0.0,0.0,1
+s2250,TV Show,,2,0.0,0.0,0.0,1
+s2253,Movie,,1,0.0,0.0,0.0,1
+s2261,Movie,,1,0.0,0.0,0.0,1
+s2272,Movie,,1,0.0,0.0,0.0,1
+s2279,Movie,,1,0.0,0.0,0.0,1
+s2282,Movie,,1,0.0,0.0,0.0,1
+s2290,Movie,,1,0.0,0.0,0.0,1
+s2293,TV Show,,1,0.0,0.0,0.0,1
+s2300,TV Show,,2,0.0,0.0,0.0,1
+s2308,TV Show,,1,0.0,0.0,0.0,1
+s2325,Movie,,1,0.0,0.0,0.0,1
+s2329,Movie,,2,0.0,0.0,0.0,1
+s2338,TV Show,,1,0.0,0.0,0.0,1
+s2344,TV Show,,2,0.0,0.0,0.0,1
+s2349,Movie,,1,0.0,0.0,0.0,1
+s2358,TV Show,Game-Show,2,1.0,2.0,2.0,3
+s2378,Movie,"Animation, Adventure, Comedy",1,2.0,3.0,3.0,4
+s2381,Movie,Family,2,1.0,1.0,0.0,2
+s2384,TV Show,"Action, Adventure, Comedy",2,2.0,3.0,0.0,3
+s2386,Movie,"Animation, Adventure, Comedy",1,2.0,3.0,4.0,4
+s2389,TV Show,,2,0.0,0.0,0.0,1
+s2441,Movie,"Animation, Family",2,1.0,1.0,0.0,2
+s2442,Movie,,1,0.0,0.0,0.0,1
+s2458,Movie,"Comedy, Sport",2,0.0,1.0,0.0,1
+s2467,TV Show,,2,0.0,0.0,0.0,1
+s2479,Movie,,2,0.0,0.0,0.0,1
+s2482,Movie,,1,0.0,0.0,0.0,1
+s2495,Movie,Music,2,3.0,2.0,0.0,3
+s2502,Movie,,1,0.0,0.0,0.0,1
+s2506,Movie,"Adventure, Comedy, Musical",1,1.0,2.0,0.0,2
+s2520,TV Show,"Animation, Action, Adventure",2,3.0,3.0,5.0,5
+s2527,TV Show,"Animation, Action, Adventure",2,3.0,3.0,3.0,5
+s2530,TV Show,"Adventure, Comedy, Family",2,2.0,2.0,0.0,3
+s2543,TV Show,"Animation, Family",2,1.0,1.0,0.0,2
+s2559,Movie,,1,0.0,0.0,0.0,1
+s2562,Movie,,2,0.0,0.0,0.0,1
+s2563,Movie,"Animation, Adventure, Comedy",1,1.0,2.0,1.0,2
+s2564,Movie,,1,0.0,0.0,0.0,1
+s2571,Movie,Sport,2,2.0,2.0,0.0,3
+s2575,TV Show,,1,0.0,0.0,0.0,1
+s2580,Movie,"Animation, Short, Family",2,2.0,1.0,0.0,2
+s2583,Movie,"Animation, Adventure, Comedy",2,2.0,3.0,4.0,5
+s2584,TV Show,"Animation, Short, Adventure",1,3.0,3.0,4.0,5
+s2587,TV Show,,2,0.0,0.0,0.0,1
+s2589,TV Show,,2,0.0,0.0,0.0,1
+s2594,Movie,,1,0.0,0.0,0.0,1
+s2595,Movie,,1,0.0,0.0,0.0,1
+s2596,Movie,,1,0.0,0.0,0.0,1
+s2606,Movie,,1,0.0,0.0,0.0,1
+s2610,TV Show,,2,0.0,0.0,0.0,1
+s2642,TV Show,,1,0.0,0.0,0.0,1
+s2647,Movie,Comedy,1,3.0,2.0,4.0,4
+s2657,Movie,"Animation, Adventure, Comedy",1,2.0,3.0,2.0,3
+s2682,Movie,Comedy,1,1.0,2.0,0.0,2
+s2702,Movie,"Action, Adventure, Family",2,1.0,3.0,4.0,4
+s2718,Movie,"Animation, Adventure, Fantasy",1,2.0,2.0,0.0,2
+s2740,TV Show,,1,0.0,0.0,0.0,1
+s2745,Movie,"Adventure, Comedy, Family",1,2.0,3.0,3.0,4
+s2751,Movie,,1,0.0,0.0,0.0,1
+s2752,TV Show,,1,0.0,0.0,0.0,1
+s2753,TV Show,Animation,1,2.0,1.0,0.0,2
+s2760,TV Show,,1,0.0,0.0,0.0,1
+s2764,Movie,"Animation, Action, Adventure",2,1.0,1.0,0.0,2
+s2771,Movie,Animation,2,3.0,1.0,0.0,3
+s2774,Movie,,1,0.0,0.0,0.0,1
+s2786,TV Show,,1,0.0,0.0,0.0,1
+s2788,TV Show,"Animation, Short, Adventure",1,3.0,2.0,2.0,3
+s2789,TV Show,"Animation, Comedy, Family",1,3.0,1.0,1.0,3
+s2795,TV Show,"Action, Adventure, Family",2,2.0,3.0,4.0,5
+s2804,Movie,"Animation, Adventure, Comedy",2,2.0,2.0,3.0,4
+s2808,TV Show,"Animation, Comedy, Family",1,3.0,2.0,1.0,3
+s2812,Movie,,1,0.0,0.0,0.0,1
+s2813,Movie,,1,0.0,0.0,0.0,1
+s2815,Movie,,1,0.0,0.0,0.0,1
+s2820,Movie,"Family, Sport",2,2.0,2.0,0.0,3
+s2829,Movie,"Animation, Short, Action",1,3.0,2.0,1.0,3
+s2842,TV Show,Animation,1,3.0,1.0,1.0,3
+s2849,Movie,,1,0.0,0.0,0.0,1
+s2858,TV Show,,1,0.0,0.0,0.0,1
+s2859,Movie,,1,0.0,0.0,0.0,1
+s2877,Movie,"Animation, Action, Family",2,2.0,3.0,0.0,3
+s2900,Movie,Musical,1,1.0,1.0,2.0,2
+s2903,TV Show,"Animation, Short, Comedy",2,2.0,2.0,0.0,3
+s2910,Movie,"Animation, Fantasy",1,1.0,2.0,0.0,2
+s2911,TV Show,"Animation, Short, Adventure",1,2.0,2.0,0.0,2
+s2912,Movie,"Animation, Adventure, Comedy",1,2.0,3.0,5.0,5
+s2916,Movie,Musical,1,1.0,1.0,0.0,1
+s2920,Movie,,2,0.0,0.0,0.0,1
+s2927,TV Show,"Animation, Adventure, Comedy",2,3.0,3.0,5.0,5
+s2928,Movie,,2,0.0,0.0,0.0,1
+s2938,TV Show,"Animation, Short, Action",2,2.0,2.0,2.0,3
+s2954,TV Show,Comedy,2,1.0,2.0,0.0,2
+s2963,TV Show,"Animation, Action, Adventure",1,3.0,3.0,2.0,4
+s2964,Movie,Comedy,2,1.0,1.0,1.0,2
+s2968,TV Show,Animation,2,1.0,1.0,0.0,2
+s2996,Movie,Comedy,2,1.0,3.0,0.0,3
+s3006,TV Show,,2,0.0,0.0,0.0,1
+s3017,Movie,"Animation, Adventure, Comedy",1,1.0,3.0,2.0,3
+s3029,TV Show,,2,0.0,0.0,0.0,1
+s3031,TV Show,"Short, Action, Adventure",1,2.0,2.0,4.0,4
+s3036,TV Show,,2,0.0,0.0,0.0,1
+s3055,Movie,Comedy,2,1.0,2.0,1.0,3
+s3056,TV Show,"Animation, Action, Comedy",2,3.0,2.0,2.0,4
+s3057,TV Show,,1,0.0,0.0,0.0,1
+s3058,Movie,"Animation, Adventure, Comedy, Family, Fantasy",2,1.0,2.0,1.0,3
+s3059,Movie,"Animation, Adventure, Comedy, Family, Fantasy",1,1.0,2.0,0.0,2
+s3063,Movie,"Animation, Action, Adventure",1,2.0,3.0,5.0,5
+s3065,Movie,,1,0.0,0.0,0.0,1
+s3067,TV Show,"Animation, Adventure, Family",1,2.0,2.0,0.0,2
+s3070,Movie,,2,0.0,0.0,0.0,1
+s3080,TV Show,,2,0.0,0.0,0.0,1
+s3084,TV Show,,1,0.0,0.0,0.0,1
+s3085,TV Show,"Animation, Short, Adventure",1,3.0,1.0,0.0,2
+s3086,TV Show,"Animation, Action, Adventure",1,2.0,1.0,0.0,2
+s3106,Movie,,2,0.0,0.0,0.0,1
+s3110,Movie,"Comedy, Family",2,1.0,2.0,0.0,2
+s3129,TV Show,Animation,2,2.0,1.0,0.0,2
+s3138,TV Show,"Animation, Action, Comedy",2,3.0,2.0,0.0,3
+s3147,TV Show,,2,0.0,0.0,0.0,1
+s3149,TV Show,,2,0.0,0.0,0.0,1
+s3162,Movie,"Comedy, Family",2,2.0,1.0,0.0,2
+s3173,Movie,"Animation, Short, Action",2,1.0,1.0,0.0,2
+s3174,TV Show,,2,0.0,0.0,0.0,1
+s3185,TV Show,,1,0.0,0.0,0.0,1
+s3200,TV Show,,1,0.0,0.0,0.0,1
+s3209,TV Show,"Animation, Adventure, Comedy",1,2.0,1.0,2.0,3
+s3222,TV Show,Comedy,2,2.0,3.0,0.0,3
+s3226,Movie,,1,0.0,0.0,0.0,1
+s3230,Movie,"Animation, Family, Fantasy",2,1.0,1.0,0.0,2
+s3232,Movie,,1,0.0,0.0,0.0,1
+s3247,TV Show,"Animation, Action, Adventure",1,3.0,3.0,4.0,5
+s3248,TV Show,"Animation, Short, Adventure",2,2.0,2.0,3.0,4
+s3254,Movie,,1,0.0,0.0,0.0,1
+s3267,Movie,,1,0.0,0.0,0.0,1
+s3273,Movie,,2,0.0,0.0,0.0,1
+s3274,Movie,"Animation, Adventure, Comedy",1,3.0,3.0,5.0,5
+s3276,TV Show,"Animation, Adventure, Family",2,2.0,2.0,1.0,3
+s3296,TV Show,"Animation, Adventure, Comedy",1,3.0,2.0,3.0,4
+s3304,Movie,,1,0.0,0.0,0.0,1
+s3305,TV Show,,2,0.0,0.0,0.0,1
+s3311,TV Show,Comedy,2,3.0,1.0,0.0,3
+s3315,Movie,,2,0.0,0.0,0.0,1
+s3316,Movie,"Animation, Comedy, Family",2,1.0,2.0,0.0,2
+s3317,TV Show,"Comedy, Family, Sport",2,1.0,2.0,4.0,4
+s3318,Movie,"Comedy, Family, Music",1,2.0,2.0,4.0,4
+s3319,Movie,,2,0.0,0.0,0.0,1
+s3320,Movie,,1,0.0,0.0,0.0,1
+s3321,Movie,"Comedy, Family",1,2.0,2.0,1.0,3
+s3322,Movie,,2,0.0,0.0,0.0,1
+s3323,Movie,"Comedy, Family",2,2.0,2.0,0.0,3
+s3325,Movie,"Comedy, Mystery",2,2.0,1.0,0.0,2
+s3328,TV Show,,2,0.0,0.0,0.0,1
+s3332,Movie,,2,0.0,0.0,0.0,1
+s3334,TV Show,,2,0.0,0.0,0.0,1
+s3339,Movie,Comedy,2,1.0,2.0,0.0,2
+s3340,TV Show,,2,0.0,0.0,0.0,1
+s3351,Movie,,2,0.0,0.0,0.0,1
+s3377,Movie,,1,0.0,0.0,0.0,1
+s3402,TV Show,"Animation, Family, Music",2,3.0,1.0,0.0,3
+s3404,TV Show,Animation,1,3.0,1.0,0.0,2
+s3405,TV Show,,1,0.0,0.0,0.0,1
+s3407,TV Show,"Animation, Short, Adventure",2,3.0,1.0,0.0,3
+s3416,TV Show,,2,0.0,0.0,0.0,1
+s3436,TV Show,,1,0.0,0.0,0.0,1
+s3443,Movie,,2,0.0,0.0,0.0,1
+s3445,TV Show,"Animation, Family",1,3.0,1.0,1.0,3
+s3452,Movie,"Comedy, Family",1,2.0,2.0,2.0,3
+s3456,TV Show,"Animation, Adventure, Comedy",1,2.0,2.0,1.0,3
+s3457,Movie,Animation,2,2.0,1.0,0.0,2
+s3473,Movie,,1,0.0,0.0,0.0,1
+s3481,Movie,,2,0.0,0.0,0.0,1
+s3483,Movie,Comedy,1,1.0,2.0,3.0,3
+s3509,Movie,,2,0.0,0.0,0.0,1
+s3518,Movie,,2,0.0,0.0,0.0,1
+s3545,Movie,"Animation, Family",2,1.0,2.0,0.0,2
+s3547,TV Show,Animation,1,3.0,1.0,0.0,2
+s3550,Movie,,1,0.0,0.0,0.0,1
+s3552,TV Show,"Animation, Adventure, Family",1,3.0,3.0,5.0,5
+s3554,TV Show,"Animation, Short, Adventure",1,3.0,2.0,3.0,4
+s3564,Movie,Comedy,1,1.0,1.0,0.0,1
+s3566,Movie,Music,1,2.0,1.0,2.0,3
+s3574,Movie,,2,0.0,0.0,0.0,1
+s3581,Movie,,1,0.0,0.0,0.0,1
+s3585,Movie,Animation,2,2.0,1.0,0.0,2
+s3599,TV Show,"Animation, Action, Adventure",2,3.0,2.0,2.0,4
+s3604,Movie,"Animation, Action, Adventure",2,3.0,3.0,1.0,4
+s3611,TV Show,,1,0.0,0.0,0.0,1
+s3637,TV Show,"Animation, Action, Adventure",2,3.0,2.0,1.0,3
+s3645,TV Show,"Animation, Short, Adventure",1,3.0,2.0,4.0,4
+s3655,TV Show,"Animation, Short, Action",2,2.0,2.0,1.0,3
+s3660,TV Show,"Animation, Comedy, Family",2,2.0,2.0,2.0,3
+s3664,TV Show,"Animation, Action, Comedy",2,3.0,3.0,0.0,3
+s3667,TV Show,,2,0.0,0.0,0.0,1
+s3668,TV Show,"Animation, Action, Adventure",2,3.0,3.0,4.0,5
+s3678,TV Show,Family,1,3.0,1.0,0.0,2
+s3681,TV Show,"Action, Adventure, Comedy",2,3.0,2.0,4.0,5
+s3692,TV Show,,2,0.0,0.0,0.0,1
+s3693,TV Show,,2,0.0,0.0,0.0,1
+s3695,TV Show,"Animation, Short, Comedy",2,3.0,2.0,0.0,3
+s3696,TV Show,"Animation, Comedy, Family",2,1.0,2.0,0.0,2
+s3710,Movie,,2,0.0,0.0,0.0,1
+s3713,Movie,,2,0.0,0.0,0.0,1
+s3723,TV Show,"Comedy, Family, Musical",1,2.0,2.0,2.0,3
+s3746,TV Show,Game-Show,2,2.0,2.0,0.0,3
+s3757,Movie,,2,0.0,0.0,0.0,1
+s3761,TV Show,,1,0.0,0.0,0.0,1
+s3767,Movie,"Animation, Adventure, Family",1,2.0,2.0,2.0,3
+s3770,TV Show,,2,0.0,0.0,0.0,1
+s3780,TV Show,,2,0.0,0.0,0.0,1
+s3807,TV Show,,2,0.0,0.0,0.0,1
+s3819,Movie,,2,0.0,0.0,0.0,1
+s3821,Movie,,2,0.0,0.0,0.0,1
+s3822,TV Show,,2,0.0,0.0,0.0,1
+s3824,TV Show,,1,0.0,0.0,0.0,1
+s3830,Movie,,2,0.0,0.0,0.0,1
+s3844,TV Show,,1,0.0,0.0,0.0,1
+s3845,TV Show,,1,0.0,0.0,0.0,1
+s3847,TV Show,,1,0.0,0.0,0.0,1
+s3849,TV Show,,1,0.0,0.0,0.0,1
+s3851,TV Show,,1,0.0,0.0,0.0,1
+s3862,TV Show,,1,0.0,0.0,0.0,1
+s3865,TV Show,,2,0.0,0.0,0.0,1
+s3869,Movie,,1,0.0,0.0,0.0,1
+s3873,Movie,,2,0.0,0.0,0.0,1
+s3891,Movie,,1,0.0,0.0,0.0,1
+s3902,TV Show,,1,0.0,0.0,0.0,1
+s3910,Movie,,1,0.0,0.0,0.0,1
+s3919,Movie,,1,0.0,0.0,0.0,1
+s3932,TV Show,,2,0.0,0.0,0.0,1
+s3939,TV Show,,1,0.0,0.0,0.0,1
+s3942,TV Show,,1,0.0,0.0,0.0,1
+s3944,TV Show,,2,0.0,0.0,0.0,1
+s3962,TV Show,,2,0.0,0.0,0.0,1
+s3974,Movie,,1,0.0,0.0,0.0,1
+s3975,Movie,,2,0.0,0.0,0.0,1
+s3980,TV Show,,2,0.0,0.0,0.0,1
+s3989,TV Show,,2,0.0,0.0,0.0,1
+s3995,Movie,,1,0.0,0.0,0.0,1
+s3998,Movie,,1,0.0,0.0,0.0,1
+s4015,TV Show,,2,0.0,0.0,0.0,1
+s4036,TV Show,,1,0.0,0.0,0.0,1
+s4037,Movie,,2,0.0,0.0,0.0,1
+s4056,TV Show,,1,0.0,0.0,0.0,1
+s4059,Movie,,2,0.0,0.0,0.0,1
+s4061,Movie,,2,0.0,0.0,0.0,1
+s4063,Movie,,1,0.0,0.0,0.0,1
+s4066,Movie,,2,0.0,0.0,0.0,1
+s4071,Movie,,1,0.0,0.0,0.0,1
+s4073,Movie,,1,0.0,0.0,0.0,1
+s4075,Movie,,1,0.0,0.0,0.0,1
+s4082,Movie,,1,0.0,0.0,0.0,1
+s4089,Movie,,1,0.0,0.0,0.0,1
+s4091,TV Show,"Family, Musical",1,2.0,1.0,1.0,2
+s4115,TV Show,"Animation, Comedy, Family",1,2.0,2.0,0.0,2
+s4122,Movie,Comedy,2,1.0,2.0,0.0,2
+s4138,Movie,,2,0.0,0.0,0.0,1
+s4139,Movie,"Animation, Action, Adventure",2,2.0,2.0,0.0,3
+s4140,Movie,,2,0.0,0.0,0.0,1
+s4142,TV Show,"Animation, Comedy, Fantasy",2,3.0,1.0,2.0,3
+s4146,Movie,,1,0.0,0.0,0.0,1
+s4203,TV Show,"Animation, Short, Adventure",2,2.0,2.0,1.0,3
+s4207,TV Show,"Animation, Comedy, Family",1,3.0,2.0,5.0,5
+s4207,TV Show,"Animation, Comedy, Family",1,3.0,2.0,5.0,5
+s4207,TV Show,"Animation, Comedy, Family",1,3.0,2.0,5.0,5
+s4209,Movie,,2,0.0,0.0,0.0,1
+s4219,TV Show,"Adventure, Comedy, Family",2,2.0,3.0,5.0,5
+s4224,Movie,"Animation, Action, Adventure",2,2.0,3.0,1.0,3
+s4243,Movie,,1,0.0,0.0,0.0,1
+s4261,TV Show,,2,0.0,0.0,0.0,1
+s4279,Movie,,2,0.0,0.0,0.0,1
+s4287,Movie,,2,0.0,0.0,0.0,1
+s4290,Movie,"Animation, Short, Adventure, Comedy, Family, Fantasy",2,3.0,2.0,2.0,4
+s4291,TV Show,"Animation, Comedy, Family",2,2.0,1.0,0.0,2
+s4312,TV Show,"Animation, Action, Adventure",2,3.0,3.0,4.0,5
+s4324,Movie,"Animation, Short, Comedy",1,1.0,1.0,0.0,1
+s4345,Movie,,1,0.0,0.0,0.0,1
+s4353,Movie,"Animation, Short, Adventure",1,3.0,2.0,2.0,3
+s4360,TV Show,"Animation, Action, Adventure",1,1.0,2.0,1.0,2
+s4364,TV Show,"Animation, Adventure",1,2.0,2.0,0.0,2
+s4365,Movie,,2,0.0,0.0,0.0,1
+s4370,Movie,"Adventure, Comedy, Family",2,3.0,3.0,2.0,4
+s4372,TV Show,"Animation, Action, Adventure",1,3.0,1.0,1.0,3
+s4374,Movie,"Comedy, Family, Musical",1,1.0,1.0,2.0,2
+s4385,TV Show,Family,2,2.0,1.0,0.0,2
+s4390,TV Show,,1,0.0,0.0,0.0,1
+s4408,TV Show,"Animation, Short, Mystery",1,3.0,1.0,2.0,3
+s4429,Movie,,2,0.0,0.0,0.0,1
+s4431,TV Show,Animation,1,0.0,0.0,0.0,1
+s4445,Movie,Comedy,1,2.0,2.0,0.0,2
+s4462,TV Show,,1,0.0,0.0,0.0,1
+s4467,Movie,"Action, Adventure, Family",1,1.0,2.0,0.0,2
+s4479,TV Show,,2,0.0,0.0,0.0,1
+s4490,TV Show,,2,0.0,0.0,0.0,1
+s4493,Movie,"Animation, Adventure, Comedy",1,1.0,3.0,0.0,2
+s4498,Movie,Animation,1,1.0,1.0,0.0,1
+s4504,TV Show,"Action, Comedy, Family",2,3.0,3.0,4.0,5
+s4512,TV Show,,1,0.0,0.0,0.0,1
+s4528,TV Show,"Animation, Adventure, Family",2,3.0,3.0,5.0,5
+s4535,Movie,"Animation, Short, Family",1,2.0,1.0,0.0,2
+s4537,TV Show,,1,0.0,0.0,0.0,1
+s4558,Movie,"Adventure, Comedy, Family",2,1.0,2.0,0.0,2
+s4564,Movie,Family,1,2.0,1.0,0.0,2
+s4584,Movie,,1,0.0,0.0,0.0,1
+s4586,Movie,Comedy,1,2.0,1.0,0.0,2
+s4595,Movie,Comedy,1,2.0,1.0,0.0,2
+s4600,Movie,Comedy,1,1.0,1.0,0.0,1
+s4603,Movie,"Comedy, Family",1,1.0,1.0,0.0,1
+s4608,Movie,,1,0.0,0.0,0.0,1
+s4615,Movie,Comedy,1,1.0,1.0,0.0,1
+s4623,TV Show,,2,0.0,0.0,0.0,1
+s4624,TV Show,"Animation, Action, Adventure",1,2.0,2.0,2.0,3
+s4634,TV Show,,2,0.0,0.0,0.0,1
+s4635,TV Show,"Animation, Short, Action",1,2.0,2.0,4.0,4
+s4641,TV Show,,1,0.0,0.0,0.0,1
+s4649,TV Show,,1,0.0,0.0,0.0,1
+s4652,TV Show,"Animation, Action, Adventure",2,3.0,3.0,4.0,5
+s4653,TV Show,"Animation, Action, Adventure",2,2.0,2.0,4.0,4
+s4657,Movie,"Animation, Action, Adventure",1,2.0,3.0,3.0,4
+s4659,TV Show,"Animation, Short, Action",2,2.0,2.0,0.0,3
+s4678,TV Show,,1,0.0,0.0,0.0,1
+s4705,TV Show,"Comedy, Music",2,1.0,2.0,0.0,2
+s4716,Movie,,1,0.0,0.0,0.0,1
+s4718,TV Show,"Animation, Short, Action",1,3.0,1.0,2.0,3
+s4721,Movie,,1,0.0,0.0,0.0,1
+s4746,Movie,Comedy,2,3.0,2.0,2.0,4
+s4761,Movie,"Animation, Adventure, Comedy",1,2.0,3.0,1.0,3
+s4763,TV Show,"Animation, Short, Adventure",2,2.0,2.0,1.0,3
+s4765,TV Show,Animation,1,1.0,1.0,2.0,2
+s4766,Movie,"Action, Adventure, Comedy",1,2.0,3.0,1.0,3
+s4814,TV Show,"Animation, Adventure, Comedy",1,3.0,3.0,4.0,5
+s4832,TV Show,,1,0.0,0.0,0.0,1
+s4833,TV Show,,1,0.0,0.0,0.0,1
+s4839,TV Show,"Animation, Action, Adventure",2,2.0,2.0,0.0,3
+s4853,TV Show,,1,0.0,0.0,0.0,1
+s4857,TV Show,,1,0.0,0.0,0.0,1
+s4858,TV Show,"Action, Adventure, Comedy",1,1.0,3.0,3.0,3
+s4870,TV Show,"Short, Adventure, Comedy",2,2.0,2.0,3.0,4
+s4874,Movie,"Comedy, Family, Musical",1,1.0,1.0,0.0,1
+s4880,TV Show,"Animation, Action, Adventure",1,2.0,2.0,2.0,3
+s4893,Movie,,1,0.0,0.0,0.0,1
+s4894,Movie,,2,0.0,0.0,0.0,1
+s4895,Movie,,1,0.0,0.0,0.0,1
+s4896,Movie,"Animation, Short",2,0.0,1.0,0.0,1
+s4897,Movie,,1,0.0,0.0,0.0,1
+s4901,TV Show,,1,0.0,0.0,0.0,1
+s4911,TV Show,Comedy,1,2.0,2.0,0.0,2
+s4914,TV Show,,1,0.0,0.0,0.0,1
+s4918,Movie,,1,0.0,0.0,0.0,1
+s4920,Movie,Comedy,2,2.0,2.0,0.0,3
+s4931,TV Show,"Animation, Adventure, Family",2,2.0,2.0,3.0,4
+s4943,TV Show,"Animation, Action, Adventure",2,3.0,2.0,0.0,3
+s4991,Movie,,2,0.0,0.0,0.0,1
+s5034,Movie,,2,0.0,0.0,0.0,1
+s5036,TV Show,"Animation, Action, Adventure",2,3.0,3.0,4.0,5
+s5046,Movie,Comedy,1,2.0,2.0,0.0,2
+s5064,TV Show,"Animation, Action, Adventure",2,2.0,2.0,3.0,4
+s5071,TV Show,,2,0.0,0.0,0.0,1
+s5090,TV Show,,1,0.0,0.0,0.0,1
+s5099,TV Show,,2,0.0,0.0,0.0,1
+s5112,TV Show,,2,0.0,0.0,0.0,1
+s5116,Movie,"Animation, Adventure, Comedy",2,1.0,2.0,0.0,2
+s5134,Movie,,2,0.0,0.0,0.0,1
+s5138,Movie,"Short, Adventure, Comedy",2,2.0,1.0,4.0,4
+s5139,TV Show,"Animation, Short, Action",2,3.0,2.0,4.0,5
+s5141,Movie,,2,0.0,0.0,0.0,1
+s5145,TV Show,"Animation, Adventure, Comedy",2,3.0,3.0,0.0,3
+s5161,Movie,,1,0.0,0.0,0.0,1
+s5167,TV Show,"Animation, Family, Fantasy",2,2.0,1.0,2.0,3
+s5175,TV Show,,2,0.0,0.0,0.0,1
+s5181,TV Show,Family,2,2.0,2.0,3.0,4
+s5190,Movie,,2,0.0,0.0,0.0,1
+s5200,Movie,Family,2,1.0,1.0,0.0,2
+s5209,TV Show,,2,0.0,0.0,0.0,1
+s5216,TV Show,,1,0.0,0.0,0.0,1
+s5220,TV Show,,2,0.0,0.0,0.0,1
+s5232,TV Show,"Animation, Action, Adventure",2,2.0,2.0,0.0,3
+s5233,TV Show,Adventure,1,2.0,1.0,0.0,2
+s5237,TV Show,"Animation, Action, Adventure",2,2.0,2.0,0.0,3
+s5238,TV Show,"Animation, Family",1,3.0,1.0,0.0,2
+s5242,Movie,"Animation, Adventure",2,1.0,1.0,1.0,2
+s5255,TV Show,,1,0.0,0.0,0.0,1
+s5260,TV Show,,1,0.0,0.0,0.0,1
+s5270,Movie,,1,0.0,0.0,0.0,1
+s5273,TV Show,"Animation, Short, Adventure",2,1.0,1.0,1.0,2
+s5290,TV Show,,1,0.0,0.0,0.0,1
+s5298,TV Show,,2,0.0,0.0,0.0,1
+s5302,TV Show,,2,0.0,0.0,0.0,1
+s5312,Movie,"Animation, Comedy, Family",1,1.0,2.0,2.0,3
+s5321,TV Show,"Animation, Short, Action",2,2.0,2.0,4.0,4
+s5341,Movie,,2,0.0,0.0,0.0,1
+s5354,Movie,Family,2,1.0,2.0,0.0,2
+s5376,Movie,,2,0.0,0.0,0.0,1
+s5381,TV Show,"Animation, Short, Adventure",2,2.0,2.0,2.0,3
+s5393,TV Show,,1,0.0,0.0,0.0,1
+s5398,TV Show,"Animation, Family, Music",2,1.0,1.0,0.0,2
+s5412,Movie,,2,0.0,0.0,0.0,1
+s5415,TV Show,"Animation, Comedy, Family",2,3.0,3.0,3.0,5
+s5423,TV Show,"Animation, Action, Adventure",1,1.0,2.0,2.0,3
+s5424,Movie,"Animation, Short, Action",2,1.0,2.0,2.0,3
+s5429,TV Show,"Animation, Action, Comedy",1,2.0,2.0,1.0,3
+s5430,Movie,,1,0.0,0.0,0.0,1
+s5434,TV Show,,1,0.0,0.0,0.0,1
+s5449,Movie,,2,0.0,0.0,0.0,1
+s5452,Movie,,2,0.0,0.0,0.0,1
+s5459,TV Show,,1,0.0,0.0,0.0,1
+s5467,Movie,,2,0.0,0.0,0.0,1
+s5489,TV Show,"Animation, Short, Adventure",1,3.0,2.0,4.0,4
+s5492,Movie,"Action, Adventure, Comedy",1,2.0,3.0,4.0,4
+s5495,TV Show,"Animation, Comedy, Family",2,3.0,1.0,0.0,3
+s5520,TV Show,,2,0.0,0.0,0.0,1
+s5524,TV Show,,2,0.0,0.0,0.0,1
+s5527,Movie,,2,0.0,0.0,0.0,1
+s5559,TV Show,"Animation, Adventure, Comedy",1,1.0,1.0,1.0,2
+s5567,TV Show,"Comedy, Family, Musical",2,3.0,2.0,2.0,4
+s5570,TV Show,"Adventure, Comedy",2,3.0,2.0,0.0,3
+s5579,TV Show,"Animation, Action, Comedy",2,3.0,2.0,2.0,4
+s5592,TV Show,"Animation, Adventure, Comedy",1,3.0,2.0,1.0,3
+s5594,TV Show,,1,0.0,0.0,0.0,1
+s5598,Movie,"Adventure, Family, Music",1,1.0,2.0,1.0,2
+s5622,Movie,"Comedy, Family, Fantasy",1,1.0,3.0,4.0,4
+s5641,TV Show,Animation,2,2.0,1.0,0.0,2
+s5644,Movie,,2,0.0,0.0,0.0,1
+s5646,Movie,,2,0.0,0.0,0.0,1
+s5649,Movie,"Animation, Adventure, Comedy",2,2.0,3.0,3.0,4
+s5660,Movie,,1,0.0,0.0,0.0,1
+s5666,TV Show,,1,0.0,0.0,0.0,1
+s5676,TV Show,,1,0.0,0.0,0.0,1
+s5682,Movie,Music,2,1.0,2.0,0.0,2
+s5693,TV Show,,2,0.0,0.0,0.0,1
+s5724,TV Show,"Animation, Action, Adventure",2,3.0,3.0,5.0,5
+s5735,Movie,,1,0.0,0.0,0.0,1
+s5737,Movie,"Comedy, Family",2,1.0,2.0,0.0,2
+s5749,Movie,,2,0.0,0.0,0.0,1
+s5760,TV Show,"Animation, Family, Musical",2,3.0,1.0,0.0,3
+s5762,Movie,,2,0.0,0.0,0.0,1
+s5774,Movie,,1,0.0,0.0,0.0,1
+s5776,Movie,,1,0.0,0.0,0.0,1
+s5786,TV Show,"Animation, Short, Adventure",2,1.0,2.0,2.0,3
+s5801,TV Show,,2,0.0,0.0,0.0,1
+s5808,TV Show,,2,0.0,0.0,0.0,1
+s5817,Movie,Comedy,2,3.0,2.0,0.0,3
+s5828,TV Show,,2,0.0,0.0,0.0,1
+s5830,TV Show,"Animation, Comedy, Family",1,2.0,1.0,0.0,2
+s5839,TV Show,,1,0.0,0.0,0.0,1
+s5856,TV Show,"Animation, Adventure, Comedy",2,2.0,1.0,4.0,4
+s5858,Movie,"Animation, Short, Action",2,3.0,2.0,1.0,3
+s5862,Movie,"Comedy, Family",2,2.0,3.0,0.0,3
+s5868,TV Show,,2,0.0,0.0,0.0,1
+s5870,TV Show,"Animation, Action, Adventure",2,2.0,2.0,2.0,3
+s5888,Movie,"Animation, Adventure, Comedy, Family",2,3.0,2.0,0.0,3
+s5896,TV Show,,1,0.0,0.0,0.0,1
+s5903,TV Show,"Animation, Adventure, Comedy",1,1.0,1.0,0.0,1
+s5937,Movie,"Comedy, Family, Fantasy",2,3.0,3.0,0.0,3
+s5968,Movie,,2,0.0,0.0,0.0,1
+s5998,Movie,Music,1,2.0,1.0,0.0,2
+s6010,Movie,,1,0.0,0.0,0.0,1
+s6026,Movie,,1,0.0,0.0,0.0,1
+s6042,Movie,,2,0.0,0.0,0.0,1
+s6070,Movie,,2,0.0,0.0,0.0,1
+s6073,Movie,,1,0.0,0.0,0.0,1
+s6081,Movie,"Animation, Adventure, Comedy",2,1.0,2.0,0.0,2
+s6110,Movie,"Action, Adventure, Comedy",1,1.0,2.0,0.0,2
+s6125,Movie,"Animation, Action, Adventure, Comedy, Family",2,1.0,2.0,0.0,2
+s6126,Movie,,1,0.0,0.0,0.0,1
+s6127,TV Show,"Animation, Family",2,3.0,1.0,0.0,3
+s6155,Movie,,2,0.0,0.0,0.0,1
+s6170,Movie,"Adventure, Family, Mystery",2,1.0,2.0,0.0,2
+s6174,Movie,,1,0.0,0.0,0.0,1
+s6182,Movie,"Animation, Adventure, Comedy",1,3.0,3.0,3.0,4
+s6187,Movie,"Animation, Adventure, Comedy",1,3.0,3.0,5.0,5
+s6195,TV Show,"Animation, Action, Comedy",1,1.0,1.0,2.0,2
+s6222,Movie,,2,0.0,0.0,0.0,1
+s6223,Movie,,2,0.0,0.0,0.0,1
+s6235,Movie,,2,0.0,0.0,0.0,1
+s6236,Movie,,2,0.0,0.0,0.0,1
+s6237,Movie,"Animation, Family, Fantasy",2,1.0,2.0,3.0,3
+s6238,Movie,"Animation, Family, Music",2,2.0,2.0,0.0,3
+s6239,Movie,,2,0.0,0.0,0.0,1
+s6240,Movie,"Animation, Family, Fantasy",2,2.0,2.0,2.0,3
+s6241,Movie,"Animation, Family, Fantasy",1,2.0,2.0,0.0,2
+s6242,Movie,"Animation, Family",1,2.0,2.0,0.0,2
+s6243,Movie,"Animation, Family, Musical",2,2.0,2.0,0.0,3
+s6244,Movie,,2,0.0,0.0,0.0,1
+s6250,TV Show,Animation,2,2.0,1.0,0.0,2
+s6259,TV Show,,1,0.0,0.0,0.0,1
+s6272,Movie,"Adventure, Comedy, Family",2,2.0,3.0,4.0,5
+s6282,TV Show,"Animation, Action, Adventure",2,3.0,3.0,3.0,5
+s6284,Movie,,2,0.0,0.0,0.0,1
+s6292,TV Show,"Animation, Action, Adventure",2,2.0,2.0,0.0,3
+s6295,TV Show,Comedy,1,2.0,1.0,0.0,2
+s6306,Movie,"Adventure, Comedy, Family",1,1.0,3.0,3.0,3
+s6309,Movie,"Adventure, Comedy, Family",2,1.0,2.0,2.0,3
+s6334,Movie,,1,0.0,0.0,0.0,1
+s6349,Movie,"Animation, Adventure, Family",2,1.0,1.0,1.0,2
+s6355,Movie,"Animation, Adventure, Comedy",2,2.0,3.0,5.0,5
+s6367,Movie,,1,0.0,0.0,0.0,1
+s6371,Movie,,2,0.0,0.0,0.0,1
+s6383,Movie,,2,0.0,0.0,0.0,1
+s6384,Movie,,2,0.0,0.0,0.0,1
+s6385,Movie,,2,0.0,0.0,0.0,1
+s6405,TV Show,,1,0.0,0.0,0.0,1
+s6421,TV Show,"Animation, Family",2,1.0,1.0,1.0,2
+s6434,Movie,,1,0.0,0.0,0.0,1
+s6439,Movie,,1,0.0,0.0,0.0,1
+s6447,Movie,"Adventure, Comedy, Family",1,2.0,3.0,5.0,5
+s6454,Movie,,2,0.0,0.0,0.0,1
+s6458,TV Show,,1,0.0,0.0,0.0,1
+s6462,Movie,,1,0.0,0.0,0.0,1
+s6463,Movie,,1,0.0,0.0,0.0,1
+s6464,Movie,,1,0.0,0.0,0.0,1
+s6465,Movie,,1,0.0,0.0,0.0,1
+s6467,Movie,"Animation, Adventure, Comedy",2,2.0,3.0,4.0,5
+s6479,Movie,,1,0.0,0.0,0.0,1
+s6481,Movie,"Comedy, Family",2,1.0,3.0,4.0,4
+s6513,Movie,Comedy,1,1.0,2.0,0.0,2
+s6535,Movie,"Action, Adventure, Comedy",2,1.0,2.0,3.0,3
+s6540,Movie,,2,0.0,0.0,0.0,1
+s6551,Movie,"Comedy, Family",2,1.0,3.0,3.0,4
+s6558,Movie,,1,0.0,0.0,0.0,1
+s6575,Movie,,2,0.0,0.0,0.0,1
+s6582,Movie,"Animation, Short, Adventure, Family",2,1.0,2.0,0.0,2
+s6607,Movie,,2,0.0,0.0,0.0,1
+s6622,Movie,Adventure,2,1.0,2.0,0.0,2
+s6640,Movie,,2,0.0,0.0,0.0,1
+s6641,Movie,,1,0.0,0.0,0.0,1
+s6644,Movie,"Action, Adventure, Comedy, Family, Fantasy",2,1.0,3.0,2.0,3
+s6659,TV Show,"Animation, Family, Musical",1,3.0,1.0,1.0,3
+s6691,TV Show,Game-Show,2,1.0,1.0,0.0,2
+s6710,TV Show,,1,0.0,0.0,0.0,1
+s6711,Movie,"Comedy, Family, Fantasy",2,1.0,3.0,4.0,4
+s6727,Movie,,3,0.0,0.0,0.0,1
+s6728,Movie,,3,0.0,0.0,0.0,1
+s6733,TV Show,,2,0.0,0.0,0.0,1
+s6749,Movie,"Animation, Comedy",2,2.0,1.0,0.0,2
+s6753,Movie,,1,0.0,0.0,0.0,1
+s6767,TV Show,,2,0.0,0.0,0.0,1
+s6771,TV Show,"Animation, Action, Adventure",1,3.0,1.0,0.0,2
+s6774,TV Show,,1,0.0,0.0,0.0,1
+s6796,TV Show,Comedy,2,3.0,3.0,5.0,5
+s6798,Movie,"Comedy, Family, Fantasy",2,1.0,3.0,0.0,3
+s6813,Movie,,1,0.0,0.0,0.0,1
+s6819,Movie,"Animation, Action, Adventure",2,1.0,3.0,2.0,3
+s6823,TV Show,"Adventure, Comedy, Fantasy",2,3.0,3.0,5.0,5
+s6826,TV Show,Comedy,1,0.0,0.0,0.0,1
+s6829,Movie,,1,0.0,0.0,0.0,1
+s6830,Movie,,1,0.0,0.0,0.0,1
+s6834,Movie,,2,0.0,0.0,0.0,1
+s6838,Movie,"Adventure, Comedy, Family",1,1.0,3.0,0.0,2
+s6839,TV Show,"Animation, Adventure, Comedy",1,2.0,2.0,0.0,2
+s6841,Movie,"Comedy, Family",1,2.0,3.0,1.0,3
+s6869,TV Show,,2,0.0,0.0,0.0,1
+s6879,Movie,,1,0.0,0.0,0.0,1
+s6884,Movie,,1,0.0,0.0,0.0,1
+s6895,TV Show,,2,0.0,0.0,0.0,1
+s6903,Movie,,2,0.0,0.0,0.0,1
+s6919,Movie,,2,0.0,0.0,0.0,1
+s6932,Movie,"Comedy, Family",1,1.0,2.0,1.0,2
+s6934,Movie,,2,0.0,0.0,0.0,1
+s6953,Movie,Animation,1,1.0,2.0,0.0,2
+s6966,TV Show,Game-Show,1,2.0,1.0,1.0,2
+s6973,Movie,,2,0.0,0.0,0.0,1
+s6982,TV Show,,2,0.0,0.0,0.0,1
+s6993,Movie,,2,0.0,0.0,0.0,1
+s7009,Movie,"Animation, Adventure, Comedy",2,2.0,3.0,4.0,5
+s7014,Movie,"Comedy, Family, Fantasy",2,2.0,3.0,5.0,5
+s7030,TV Show,"Animation, Action, Adventure",1,3.0,2.0,0.0,3
+s7055,TV Show,Game-Show,2,2.0,2.0,1.0,3
+s7056,Movie,"Animation, Comedy, Family",1,2.0,3.0,1.0,3
+s7068,Movie,,2,0.0,0.0,0.0,1
+s7070,TV Show,,2,0.0,0.0,0.0,1
+s7079,Movie,"Adventure, Family, Fantasy",1,2.0,3.0,1.0,3
+s7089,Movie,,2,0.0,0.0,0.0,1
+s7098,Movie,,2,0.0,0.0,0.0,1
+s7099,TV Show,"Animation, Action, Adventure",1,2.0,3.0,0.0,3
+s7109,Movie,,1,0.0,0.0,0.0,1
+s7117,Movie,Animation,1,2.0,1.0,0.0,2
+s7124,TV Show,"Short, Game-Show",2,3.0,3.0,4.0,5
+s7146,Movie,"Comedy, Family",2,1.0,3.0,3.0,4
+s7149,TV Show,Animation,2,2.0,1.0,1.0,3
+s7197,TV Show,,1,0.0,0.0,0.0,1
+s7222,Movie,,2,0.0,0.0,0.0,1
+s7227,Movie,,1,0.0,0.0,0.0,1
+s7228,Movie,,1,0.0,0.0,0.0,1
+s7229,Movie,,1,0.0,0.0,0.0,1
+s7230,Movie,,1,0.0,0.0,0.0,1
+s7231,Movie,Animation,1,3.0,1.0,0.0,2
+s7231,Movie,Animation,1,3.0,1.0,0.0,2
+s7232,Movie,,1,0.0,0.0,0.0,1
+s7233,Movie,,1,0.0,0.0,0.0,1
+s7234,Movie,,1,0.0,0.0,0.0,1
+s7236,TV Show,,1,0.0,0.0,0.0,1
+s7241,Movie,,1,0.0,0.0,0.0,1
+s7242,Movie,,2,0.0,0.0,0.0,1
+s7243,Movie,"Action, Adventure, Comedy",1,1.0,3.0,1.0,3
+s7250,Movie,,1,0.0,0.0,0.0,1
+s7258,TV Show,,1,0.0,0.0,0.0,1
+s7276,Movie,,2,0.0,0.0,0.0,1
+s7277,Movie,,2,0.0,0.0,0.0,1
+s7278,Movie,,2,0.0,0.0,0.0,1
+s7279,Movie,,1,0.0,0.0,0.0,1
+s7280,TV Show,"Animation, Family",2,2.0,1.0,0.0,2
+s7283,Movie,"Animation, Action, Adventure",1,3.0,3.0,4.0,5
+s7286,TV Show,,2,2.0,1.0,0.0,2
+s7288,TV Show,Animation,1,1.0,1.0,0.0,1
+s7289,TV Show,,2,0.0,0.0,0.0,1
+s7290,Movie,,1,0.0,0.0,0.0,1
+s7292,TV Show,,1,0.0,0.0,0.0,1
+s7293,Movie,"Animation, Family",1,1.0,1.0,0.0,1
+s7301,TV Show,,2,3.0,1.0,0.0,3
+s7314,Movie,,2,0.0,0.0,0.0,1
+s7315,Movie,,2,0.0,0.0,0.0,1
+s7319,Movie,,1,0.0,0.0,0.0,1
+s7332,TV Show,"Animation, Action, Adventure",1,3.0,2.0,0.0,3
+s7376,TV Show,,2,0.0,0.0,0.0,1
+s7378,Movie,,1,0.0,0.0,0.0,1
+s7413,Movie,,2,0.0,0.0,0.0,1
+s7415,Movie,,1,0.0,0.0,0.0,1
+s7416,Movie,,2,0.0,0.0,0.0,1
+s7417,Movie,"Animation, Adventure, Family",2,2.0,3.0,2.0,4
+s7418,Movie,"Adventure, Comedy, Family",1,2.0,3.0,5.0,5
+s7427,Movie,,2,0.0,0.0,0.0,1
+s7453,Movie,"Animation, Comedy, Family",1,2.0,3.0,2.0,3
+s7474,Movie,,1,0.0,0.0,0.0,1
+s7487,Movie,"Comedy, Family, Fantasy",2,1.0,2.0,1.0,3
+s7489,Movie,"Animation, Comedy, Family",1,1.0,3.0,0.0,2
+s7490,Movie,,2,0.0,0.0,0.0,1
+s7491,Movie,"Animation, Fantasy",2,2.0,2.0,1.0,3
+s7492,Movie,Animation,2,2.0,2.0,0.0,3
+s7493,Movie,Animation,2,2.0,2.0,2.0,3
+s7494,Movie,"Animation, Short",2,2.0,2.0,1.0,3
+s7495,Movie,,2,0.0,0.0,0.0,1
+s7496,Movie,Animation,2,2.0,2.0,0.0,3
+s7497,Movie,,2,0.0,0.0,0.0,1
+s7498,Movie,"Animation, Fantasy",2,2.0,2.0,0.0,3
+s7500,Movie,"Animation, Fantasy",2,2.0,2.0,2.0,3
+s7501,Movie,Animation,2,2.0,2.0,0.0,3
+s7503,TV Show,Animation,2,2.0,1.0,1.0,3
+s7514,Movie,"Animation, Adventure, Comedy",1,2.0,1.0,0.0,2
+s7522,TV Show,"Comedy, Family, Fantasy",2,2.0,2.0,4.0,4
+s7526,Movie,"Animation, Adventure, Comedy",2,3.0,3.0,4.0,5
+s7530,TV Show,"Animation, Action, Adventure",2,2.0,1.0,0.0,2
+s7532,Movie,,2,0.0,0.0,0.0,1
+s7533,Movie,,1,0.0,0.0,0.0,1
+s7542,Movie,,1,0.0,0.0,0.0,1
+s7543,Movie,,1,0.0,0.0,0.0,1
+s7554,Movie,"Comedy, Family, Sport",1,2.0,3.0,3.0,4
+s7565,Movie,"Action, Adventure, Mystery",2,3.0,3.0,3.0,5
+s7569,TV Show,,1,0.0,0.0,0.0,1
+s7570,TV Show,,2,0.0,0.0,0.0,1
+s7571,Movie,,2,0.0,0.0,0.0,1
+s7572,TV Show,,1,0.0,0.0,0.0,1
+s7573,TV Show,,1,0.0,0.0,0.0,1
+s7574,TV Show,,2,0.0,0.0,0.0,1
+s7595,Movie,"Animation, Adventure, Comedy",2,1.0,2.0,0.0,2
+s7596,Movie,"Animation, Adventure, Comedy",1,1.0,2.0,0.0,2
+s7597,Movie,"Animation, Adventure, Comedy",1,1.0,2.0,0.0,2
+s7600,Movie,,2,0.0,0.0,0.0,1
+s7601,Movie,,2,0.0,0.0,0.0,1
+s7602,Movie,,2,0.0,0.0,0.0,1
+s7603,Movie,,2,0.0,0.0,0.0,1
+s7604,Movie,,2,0.0,0.0,0.0,1
+s7605,Movie,,2,0.0,0.0,0.0,1
+s7608,Movie,,2,0.0,0.0,0.0,1
+s7609,Movie,,2,0.0,0.0,0.0,1
+s7611,Movie,,2,0.0,0.0,0.0,1
+s7612,Movie,,2,0.0,0.0,0.0,1
+s7613,Movie,,2,0.0,0.0,0.0,1
+s7614,Movie,,2,0.0,0.0,0.0,1
+s7615,Movie,,2,0.0,0.0,0.0,1
+s7616,Movie,,2,0.0,0.0,0.0,1
+s7619,Movie,,2,0.0,0.0,0.0,1
+s7636,Movie,,1,0.0,0.0,0.0,1
+s7649,TV Show,,2,0.0,0.0,0.0,1
+s7650,TV Show,,2,0.0,0.0,0.0,1
+s7656,Movie,,2,0.0,0.0,0.0,1
+s7670,Movie,"Animation, Adventure, Comedy",2,2.0,3.0,3.0,4
+s7675,TV Show,,2,0.0,0.0,0.0,1
+s7690,TV Show,"Animation, Family",2,2.0,1.0,1.0,3
+s7699,TV Show,"Family, Musical",2,2.0,1.0,1.0,3
+s7703,Movie,Family,1,1.0,1.0,0.0,1
+s7708,Movie,,1,0.0,0.0,0.0,1
+s7735,Movie,"Animation, Action, Adventure",1,2.0,2.0,2.0,3
+s7749,TV Show,,2,0.0,0.0,0.0,1
+s7761,TV Show,Action,1,0.0,0.0,0.0,1
+s7762,TV Show,"Action, Adventure, Family",2,2.0,2.0,0.0,3
+s7763,TV Show,,1,0.0,0.0,0.0,1
+s7764,TV Show,,2,0.0,0.0,0.0,1
+s7769,TV Show,"Action, Adventure, Family",2,2.0,2.0,0.0,3
+s7770,TV Show,"Action, Adventure, Family",1,2.0,2.0,0.0,2
+s7772,TV Show,,2,0.0,0.0,0.0,1
+s7774,TV Show,"Action, Adventure, Comedy",2,1.0,2.0,1.0,3
+s7775,Movie,,2,0.0,0.0,0.0,1
+s7776,Movie,,2,0.0,0.0,0.0,1
+s7777,Movie,,2,0.0,0.0,0.0,1
+s7778,TV Show,,1,0.0,0.0,0.0,1
+s7779,Movie,,2,0.0,0.0,0.0,1
+s7780,TV Show,,1,0.0,0.0,0.0,1
+s7781,Movie,,2,0.0,0.0,0.0,1
+s7782,Movie,,2,0.0,0.0,0.0,1
+s7787,TV Show,,2,0.0,0.0,0.0,1
+s7788,Movie,"Action, Adventure, Family",2,0.0,0.0,0.0,1
+s7789,Movie,,2,0.0,0.0,0.0,1
+s7799,TV Show,,2,0.0,0.0,0.0,1
+s7815,Movie,,2,0.0,0.0,0.0,1
+s7817,Movie,"Action, Adventure, Family",2,2.0,3.0,1.0,3
+s7827,Movie,,2,0.0,0.0,0.0,1
+s7853,Movie,"Comedy, Family, Sport",1,1.0,1.0,2.0,2
+s7892,Movie,"Animation, Comedy, Family",1,3.0,3.0,5.0,5
+s7908,Movie,"Family, Sport",2,1.0,2.0,0.0,2
+s7927,Movie,,1,0.0,0.0,0.0,1
+s7930,Movie,,1,0.0,0.0,0.0,1
+s7934,Movie,"Family, Fantasy",2,1.0,2.0,0.0,2
+s7935,Movie,"Animation, Comedy, Family",1,2.0,2.0,3.0,3
+s7938,Movie,"Adventure, Comedy",1,1.0,2.0,1.0,2
+s7949,TV Show,Family,2,3.0,1.0,1.0,3
+s7953,Movie,"Adventure, Family, Fantasy",2,1.0,2.0,1.0,3
+s7971,Movie,,2,0.0,0.0,0.0,1
+s7978,Movie,,2,3.0,1.0,0.0,3
+s8006,Movie,"Animation, Short, Family",2,1.0,1.0,0.0,2
+s8007,Movie,,2,0.0,0.0,0.0,1
+s8008,Movie,,2,0.0,0.0,0.0,1
+s8011,Movie,"Adventure, Comedy, Family",1,1.0,3.0,2.0,3
+s8016,TV Show,"Animation, Comedy, Family",2,1.0,2.0,2.0,3
+s8069,Movie,"Animation, Action, Adventure",2,3.0,3.0,5.0,5
+s8071,TV Show,"Animation, Adventure, Family",2,2.0,1.0,2.0,3
+s8075,Movie,"Action, Adventure, Comedy",2,1.0,3.0,4.0,4
+s8076,Movie,,2,0.0,0.0,0.0,1
+s8077,Movie,"Action, Adventure, Comedy",2,1.0,3.0,4.0,4
+s8095,TV Show,Animation,1,1.0,1.0,0.0,1
+s8103,TV Show,,1,0.0,0.0,0.0,1
+s8111,Movie,"Animation, Adventure, Comedy",2,1.0,3.0,5.0,5
+s8122,TV Show,Animation,1,1.0,1.0,1.0,2
+s8123,Movie,,1,0.0,0.0,0.0,1
+s8126,TV Show,,1,0.0,0.0,0.0,1
+s8144,TV Show,"Animation, Action, Adventure",2,3.0,2.0,2.0,4
+s8153,Movie,,2,0.0,0.0,0.0,1
+s8155,Movie,,2,0.0,0.0,0.0,1
+s8159,Movie,"Action, Adventure, Comedy",1,2.0,3.0,3.0,4
+s8173,TV Show,,1,0.0,0.0,0.0,1
+s8181,TV Show,,1,0.0,0.0,0.0,1
+s8182,Movie,,2,0.0,0.0,0.0,1
+s8184,Movie,,2,0.0,0.0,0.0,1
+s8185,Movie,"Animation, Action, Adventure",1,3.0,3.0,5.0,5
+s8191,Movie,"Animation, Action, Adventure",1,2.0,3.0,3.0,4
+s8215,TV Show,,2,0.0,0.0,0.0,1
+s8249,Movie,"Comedy, Family",2,1.0,2.0,0.0,2
+s8259,Movie,"Animation, Action, Adventure",2,3.0,3.0,5.0,5
+s8272,TV Show,"Animation, Action, Adventure",1,1.0,2.0,4.0,3
+s8316,TV Show,Family,1,3.0,1.0,0.0,2
+s8332,TV Show,,2,0.0,0.0,0.0,1
+s8360,Movie,"Animation, Adventure, Comedy",2,2.0,2.0,4.0,4
+s8361,Movie,,2,0.0,0.0,0.0,1
+s8372,TV Show,,2,0.0,0.0,0.0,1
+s8375,Movie,,1,0.0,0.0,0.0,1
+s8377,TV Show,,1,0.0,0.0,0.0,1
+s8395,Movie,"Animation, Adventure, Family",2,3.0,3.0,5.0,5
+s8412,TV Show,,1,0.0,0.0,0.0,1
+s8431,Movie,"Adventure, Comedy, Family",2,3.0,3.0,5.0,5
+s8442,Movie,"Adventure, Family, Fantasy",2,1.0,3.0,3.0,4
+s8445,Movie,,1,0.0,0.0,0.0,1
+s8456,Movie,"Animation, Adventure, Family, Fantasy",2,2.0,3.0,2.0,4
+s8458,Movie,"Animation, Adventure, Comedy",1,2.0,3.0,5.0,5
+s8462,Movie,"Animation, Adventure, Comedy",2,2.0,3.0,5.0,5
+s8466,Movie,,1,0.0,0.0,0.0,1
+s8467,Movie,"Animation, Adventure, Comedy",2,3.0,3.0,5.0,5
+s8473,Movie,,1,0.0,0.0,0.0,1
+s8502,Movie,"Animation, Adventure, Comedy",1,2.0,3.0,2.0,3
+s8516,Movie,"Action, Comedy, Family",2,1.0,3.0,2.0,3
+s8554,Movie,,1,0.0,0.0,0.0,1
+s8556,Movie,,1,0.0,0.0,0.0,1
+s8566,Movie,,2,0.0,0.0,0.0,1
+s8595,Movie,"Animation, Adventure, Family, Fantasy",2,3.0,3.0,2.0,4
+s8597,TV Show,Animation,1,2.0,1.0,0.0,2
+s8601,TV Show,"Animation, Action, Adventure",2,3.0,1.0,0.0,3
+s8603,Movie,"Animation, Action, Comedy, Family, Fantasy",1,2.0,2.0,2.0,3
+s8642,Movie,"Animation, Adventure, Comedy",2,2.0,3.0,5.0,5
+s8647,TV Show,"Animation, Family",2,3.0,1.0,1.0,3
+s8656,Movie,"Adventure, Comedy, Family",2,1.0,3.0,3.0,4
+s8678,Movie,,2,0.0,0.0,0.0,1
+s8680,TV Show,"Animation, Comedy, Family",1,1.0,1.0,0.0,1
+s8685,TV Show,"Animation, Adventure, Family",1,1.0,1.0,0.0,1
+s8693,Movie,,2,0.0,0.0,0.0,1
+s8715,Movie,,2,0.0,0.0,0.0,1
+s8748,TV Show,Game-Show,2,2.0,1.0,0.0,2
+s8760,Movie,,1,0.0,0.0,0.0,1
+s8777,Movie,"Animation, Adventure, Comedy",1,1.0,2.0,2.0,3
+s8779,Movie,,1,0.0,0.0,0.0,1
+s8781,TV Show,,2,0.0,0.0,0.0,1
+s8782,Movie,,1,0.0,0.0,0.0,1
+s8785,Movie,,1,0.0,0.0,0.0,1
+s8786,TV Show,,1,0.0,0.0,0.0,1
+s8787,Movie,Family,2,1.0,1.0,0.0,2
+s8788,Movie,,2,0.0,0.0,0.0,1
+s8794,Movie,"Comedy, Family",2,3.0,3.0,4.0,5
+s8796,TV Show,"Animation, Adventure, Fantasy",1,2.0,2.0,0.0,2
+s8798,TV Show,"Animation, Action, Adventure",1,2.0,1.0,0.0,2
+s8806,Movie,"Action, Adventure, Comedy",2,1.0,3.0,4.0,4

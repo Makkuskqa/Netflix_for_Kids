@@ -24,20 +24,20 @@ class Database:
 
     
     def csv_source(self):
-        df1 = pd.read_csv('/program/data_sources/gdp_per_capita.csv')
-        df2 = pd.read_csv('/program/data_sources/netflix_shows.csv',sep=';',  low_memory=False)
-        df3 = pd.read_csv('/program/data_sources/ratings.csv').drop_duplicates()
+        df1 = pd.read_csv('program/data_sources/gdp_per_capita.csv')
+        df2 = pd.read_csv('program/data_sources/netflix_shows.csv',sep=';',  low_memory=False)
+        df3 = pd.read_csv('program/data_sources/ratings.csv').drop_duplicates()
 
-        df1.to_sql('GDP_PER_CAPITA', con = self.conn, if_exists='append', index=False)
-        df2.to_sql('NETFLIX_SHOWS', con = self.conn, if_exists='append', index=False)
-        df3.to_sql('RATINGS', con = self.conn, if_exists='append', index=False)
+        df1.to_sql('GDP_PER_CAPITA', con = self.conn, if_exists='replace', index=False)
+        df2.to_sql('NETFLIX_SHOWS', con = self.conn, if_exists='replace', index=False)
+        df3.to_sql('RATINGS', con = self.conn, if_exists='replace', index=False)
 
 
 
 def main_t10_1():
 
     db = Database()
-    db.connect('/program/database/netflix_database.db')
+    db.connect('program/database/netflix_database.db')
     db.csv_source()
     db.close()
 

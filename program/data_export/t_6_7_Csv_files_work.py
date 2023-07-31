@@ -12,19 +12,26 @@ def find_all_geos():
                          sep=';',  low_memory=False)
     df = df.dropna() 
     # delete empty values
+
     list_countries = df.country.unique()
+    # create list with all unique values in df.country
+
     unique_countries = set()
+    # create set for appending clear <word> value from unique countries
 
     for item in list_countries:
         words = re.split(r',\s*|,', item)
         # split rows with more than one country inside
+
         unique_countries.update(words) 
         # update our set
 
     unique_countries_list = list(unique_countries) 
     #convert to a list
+
     unique_countries_list.remove('') 
     # remove one empty value
+
     #print(unique_countries_list)
     return unique_countries_list
 
@@ -39,12 +46,12 @@ def fetch_gdp_per_capita(queue):
         country = queue.get() # get one country from queue
         if country is None: # break if all country have used
             break
-        req = requests.get(f'https://api.api-ninjas.com/v1/country?name={country}', headers={'X-Api-Key': ''})
+        req = requests.get(f'https://api.api-ninjas.com/v1/country?name={country}', headers={'X-Api-Key': 'PtTVI4uKi0xwUvZ+en3hWQ==4otHBoTdMwWzadZq'})
         request_dict = json.loads(req.text)
         try:
             gdp_per_capita = request_dict[0]['gdp_per_capita'] # get gdp value
         except:
-            gdp_per_capita = ''  # get empty if country not exists
+            gdp_per_capita = ''   # get empty if country not exists
         queue.put((country, gdp_per_capita)) # put result into queue
 
 def gdp_per_capita_multiprocessing(list_countries, is_test=None):

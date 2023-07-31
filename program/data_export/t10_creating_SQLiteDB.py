@@ -53,7 +53,8 @@ class Database:
                     listed_in TEXT,
                     description TEXT,
                                                   
-                    FOREIGN KEY (rating) REFERENCES RATINGS(id)                              
+                    FOREIGN KEY (rating) REFERENCES RATINGS(id),
+                    FOREIGN KEY (country) REFERENCES GDP_PER_CAPITA(country)                                  
                 )
             ''')
 
@@ -94,7 +95,7 @@ class Database:
 def main_t10():
 
     db = Database()
-    db.connect('/program/database/netflix_database.db')
+    db.connect('program/database/netflix_database.db')
     db.create_tables()
     db.close()
 
